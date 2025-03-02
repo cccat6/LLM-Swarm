@@ -1,10 +1,10 @@
-# Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models
+## Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models
 
 <!-- #### General Information
 The open source data of Exploring Spontaneous Social Interaction Swarm Robotics Powered by Large Language Models. -->
 
 
-#### General Information   
+## General Information   
 This research explores a decentralized multi-robot system where each robot starts with only local information and no knowledge of its peers. By using Large Language Models (LLMs) for reasoning and natural language for communication, the robots can discover each other, share information, and coordinate dynamically. Experiments in zero-shot settings revealed emergent human-like social behaviors such as peer discovery, negotiation, and error correction. The work offers a novel perspective on robotic swarm intelligence, framing it as a study in "robot anthropology" by examining the emergent collaborative structures that arise from LLM-driven interactions.
 
 

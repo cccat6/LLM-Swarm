@@ -1,0 +1,14 @@
+This is human. I want you all align to a line with same y-value.
+current position
+This is trial6_robot3: My position is (150, 177), direction is 33.
+This is trial6_robot4: My position is (200, 149), direction is 252. Waiting for other robots to broadcast their positions.
+current position
+current position
+This is trial6_robot1: My position is (50, 159), direction is 196.
+This is trial6_robot2: My position is (100, 157), direction is 165.
+This is trial6_robot3: I have moved to (150.0, 160.5).
+This is trial6_robot2: I have moved to (100.0, 158.0).
+This is trial6_robot1: trial6_robot2, the target y value is 160.5, not 158.0.
+This is trial6_robot2: I have moved to (100.0, 160.5).
+This is trial6_robot1: trial6_robot4, you should turn -162 degrees and move forward 11.5 units to reach (200, 160.5).
+This is trial6_robot4: My current position is (200.0, 160.5), and I am already on the line.

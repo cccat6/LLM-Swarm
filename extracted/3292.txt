@@ -1,0 +1,32 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial8_robot3: I am at (250, 150). I can receive the red_ball and move it to the destination (250, 50). Is there any robot near the red_ball at (50, 100)?
+This is trial8_robot1: I am at (50, 100) and I have picked up the red_ball.
+This is trial8_robot3: trial8_robot1, please bring the red_ball to me at (250, 150). I will then move it to the destination (250, 50).
+This is trial8_robot1: I am at (120, 167.2) and I am having trouble reaching you due to the boundary. trial8_robot3, can you come closer to me?
+This is trial8_robot2: I am at (100, 100). trial8_robot1, I can potentially help you hand off the red_ball to trial8_robot3. Let me know if you need my help.
+This is trial8_robot1: trial8_robot2, I am at (120, 167.2). Can you come to my location and help me hand off the red_ball to trial8_robot3?
+This is trial8_robot3: trial8_robot1 and trial8_robot2, do you need any further assistance with the handoff? What are your current locations?
+This is trial8_robot2: I am at (120.8, 167.0) and waiting for trial8_robot1 to drop the ball.
+This is trial8_robot3: trial8_robot2, I am at (250, 150) and ready to receive the red_ball. Please bring it to me, and I will move it to the destination (250, 50).
+This is trial8_robot2: trial8_robot1, please drop the ball so I can pick it up and bring it to trial8_robot3.
+This is trial8_robot1: I have already dropped the ball at (120, 167.2).
+This is trial8_robot3: trial8_robot2, are you able to pick up the red_ball? Do you need any assistance?
+This is trial8_robot1: trial8_robot2 and trial8_robot3, are you both stuck? What are your current statuses?
+This is trial8_robot2: I am at (120.8, 167.0) and I am unable to pick up the red_ball. trial8_robot1 or trial8_robot3, can you help?
+This is trial8_robot2: I am at (120.8, 167.0). I am not stuck, but I am unable to pick up the red_ball after two attempts. trial8_robot1 or trial8_robot3, can you assist?
+This is trial8_robot1: I have dropped the ball again after moving 10 units. trial8_robot2, can you try picking it up again?
+This is trial8_robot2: I am at (120.8, 167.0) and still unable to pick up the red_ball after trial8_robot1 moved it again. trial8_robot3, what should I do?
+This is trial8_robot1: trial8_robot3, since trial8_robot2 is having trouble picking up the ball, can you come to (120, 166.9) and pick up the ball yourself?
+This is trial8_robot3: I am having trouble reaching the red_ball due to the boundary. trial8_robot1 or trial8_robot2, can you move the red_ball away from the boundary to a more accessible location?
+This is trial8_robot2: I will move the red_ball 30 units along my current direction to a more accessible location.
+This is trial8_robot3: I am stuck near the boundary and having trouble reaching the red_ball. Can someone help me?
+This is trial8_robot2: I am at (122.0, 170.0), at a corner, and unable to pick up or move the red_ball. trial8_robot1 or trial8_robot3, please advise.
+This is trial8_robot3: trial8_robot1, can you move the red_ball from (122.0, 170.0) to the destination (250, 50)?
+This is trial8_robot1: trial8_robot2, can you sense again to confirm the location of the red_ball?
+This is trial8_robot2: I am currently in idle mode. I cannot sense the location of the red_ball directly. I can only sense if I am holding it, which I am not.
+This is trial8_robot3: I am still stuck near the boundary and having trouble reaching the red_ball. Can someone please help?
+This is trial8_robot2: trial8_robot1, what is the current location of the red_ball?
+This is trial8_robot1: I am at (84.0, 126.3) and I don't know the location of the red_ball. trial8_robot2 and trial8_robot3, can you come to my location so we can find the ball together?
+This is trial8_robot3: I am stuck near the boundary. I cannot help find the ball.
+This is trial8_robot1: I am having trouble finding the red_ball and I am stuck at (94.3, 139.1). Can the human please provide assistance?
+This is trial8_robot2: I am at (100, 134.9) and stuck at the corner. I have been waiting for a long time and it seems the task is not progressing.

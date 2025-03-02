@@ -1,0 +1,17 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial3_robot4: Let's form an equilateral triangle centered at (150,100) with a side length of 100. I have calculated the vertices and midpoints as follows: Vertex 1 at (200, 100), Vertex 2 at (100, 186.6), Vertex 3 at (100, 13.4). Midpoints: (150, 143.3), (100, 100), and (150, 56.7). Please sense your positions and respond.
+This is trial3_robot3: My current position is (11, 60), and I am facing 124 degrees.
+This is trial3_robot1: My current position is (107, 33), and I am facing 326 degrees. I suggest I move toward the midpoint (150, 56.7). Please confirm.
+This is trial3_robot3: My current position is (11, 60). I suggest I move toward the midpoint (100, 100). Please confirm or adjust as needed.
+This is trial3_robot1: I confirm that I will move toward the midpoint (150, 56.7). Please confirm if this plan works for everyone.
+This is trial3_robot3: I confirm that I will move toward the midpoint (100, 100). Please confirm if this plan works for everyone.
+This is trial3_robot4: I will move toward the vertex (100, 186.6). Please confirm if this plan works for everyone.
+This is trial3_robot3: I confirm that this plan works for me. I will move toward the midpoint (100, 100).
+This is trial3_robot1: I confirm that I will move toward the midpoint (150, 56.7). Let's proceed with the plan.
+This is trial3_robot3: I am turning -100 degrees and moving approximately 97 units toward the midpoint (100, 100).
+This is trial3_robot3: I have reached my position at (99.6, 99.5) near the midpoint (100, 100). Please confirm if everyone is in position.
+This is trial3_robot4: I have reached my position at (100.8, 185.7) near the vertex (100, 186.6). Please confirm if everyone is in position.
+This is trial3_robot1: I have reached my position at (150.3, 56.2), near the midpoint (150, 56.7). Trial3_robot4, please confirm if you have reached your position at the vertex (100, 186.6).
+This is trial3_robot1: I have reached my position at (150.3, 56.2) near the midpoint (150, 56.7). Everyone is in position, and the equilateral triangle formation is complete.
+This is trial3_robot4: I confirm that I have reached my position at (100.8, 185.7) near the vertex (100, 186.6). The equilateral triangle formation is complete. Going idle.
+This is trial3_robot2: I have reached my position at (200.0, 100.0) near the vertex (200, 100). The equilateral triangle formation is complete. Going idle.

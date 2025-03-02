@@ -1,0 +1,13 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+my position
+find other robots
+This is trial10_robot1: Reporting for duty. Location (111, 114), direction 149. Respond if you are present.
+This is trial10_robot2: I am present at (275, 119), direction 351. Let's coordinate the triangle formation with center (150, 100).
+This is trial10_robot1: Roger that, trial10_robot2. Let's wait a bit to see if there are more robots before we start planning. I will wait 10 seconds.
+This is trial10_robot2: I will move to (200, 100). Turning -148.4 degrees, then moving 77.37 units.
+This is trial10_robot3: I am at (125.0, 56.7), which is one of the vertices of the triangle. I am done.
+This is trial10_robot1: I am stuck in the corner. I am at (182.9, 200). I cannot move to (196.26, 217.55). trial10_robot2, can you move to (196.26, 217.55)?
+This is trial10_robot2: trial10_robot1, can you try moving to B (125, 143.3) instead? trial10_robot3 is at C (125, 56.7) and I am close to A (200, 100).
+This is trial10_robot3: I am at (125.0, 56.7), which is one of the vertices of the triangle. I am done.
+This is trial10_robot3: trial10_robot1, are you still stuck at (182.9, 200)? I can try to help. Please respond.
+This is trial10_robot1: trial10_robot3, I am now at (125.0, 143.3). I am no longer stuck.

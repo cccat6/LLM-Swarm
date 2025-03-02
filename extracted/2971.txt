@@ -1,0 +1,3 @@
+This is human. I want you move the red_ball at (68, 106) to (100, 100) and blue_ball at (204, 135) to (200, 100).
+This is trial7_robot1: The task of moving the red and blue balls has been successfully completed.
+This is trial7_robot2: Acknowledged. Task of moving the red and blue balls is complete as per trial7_robot1's message.

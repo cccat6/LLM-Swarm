@@ -1,0 +1,13 @@
+This is human. I want you move the red_ball at (118, 70) to (100, 100) and blue_ball at (164, 101) to (200, 100).
+This is trial2_robot1: I am at (100.0, 100.2) and facing 120.1 degrees. I am supposed to pick up the red ball and drop it here, but I failed to pick it up. Can anyone help?
+This is trial2_robot2: trial2_robot1, are you still there? Do you need help to pick up the red ball?
+This is trial2_robot1: Yes, trial2_robot2. I am still at (100.0, 100.2) and I cannot pick up the red ball. Can you help?
+This is trial2_robot2: trial2_robot1, have you picked up the red ball? Do you need any help?
+This is trial2_robot1: I am at (100.0, 100.2) and facing 30.2 degrees. I have tried many times to pick up the red ball at this location, but I failed. Can other robots confirm the location of the red ball? If it is there, can you help pick it up and drop it at (100, 100)?
+This is trial2_robot2: trial2_robot1, have you picked up the red ball? Do you need any help?
+This is trial2_robot1: I am at (117.8, 70.2). I am supposed to pick up the red ball here, but I still cannot pick it up. Can anyone help?
+This is trial2_robot2: I am going to idle
+This is trial2_robot1: I am at (117.8, 70.2). I am supposed to pick up the red ball here, but I still cannot pick it up. Can anyone help?
+This is trial2_robot2: trial2_robot1, the red ball is at (100.0, 100.2), not (117.8, 70.2). Please go to (100.0, 100.2) to pick up the red ball.
+This is trial2_robot1: I am at (100.0, 100.2). I am supposed to pick up the red ball here, but I still cannot pick it up. Can anyone help?
+This is trial2_robot2: I am going to idle

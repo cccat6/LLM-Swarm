@@ -1,0 +1,11 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+Find out the number of robots.
+This is trial5_robot3: Please identify yourself.
+This is trial5_robot6: I am trial5_robot6.
+This is trial5_robot4: I am trial5_robot4.
+This is trial5_robot5: I am trial5_robot5.
+This is trial5_robot1: I am trial5_robot1.
+This is trial5_robot2: I am trial5_robot2.
+This is trial5_robot5: There are 6 robots in total.
+This is trial5_robot3: My position is (125.2, 143.1).
+This is trial5_robot5: My position is (128, 76).

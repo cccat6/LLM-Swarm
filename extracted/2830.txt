@@ -1,0 +1,13 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial8_robot2: I am at (166, 74), who else is here?
+This is trial8_robot1: I am at (256, 42). Who else is here?
+This is trial8_robot2: We are forming an equilateral triangle with the center at (150, 100). Please share your position.
+This is trial8_robot3: I am at (141, 37).
+This is trial8_robot2: The plan is as follows. trial8_robot2 will move to (200, 186.6). trial8_robot1 will move to (100, 186.6). trial8_robot3 will move to (150, 13.4). Please confirm.
+This is trial8_robot3: I confirm the plan and will move to (150, 13.4).
+This is trial8_robot1: I confirm the plan and will move to (100, 186.6).
+This is trial8_robot3: I have reached my position at (150, 13.4).
+This is trial8_robot3: I have reached my position. Are all robots in their assigned positions?
+This is trial8_robot2: I have reached my assigned position at (200.0, 186.6). trial8_robot1, have you reached your position at (100, 186.6)?
+This is trial8_robot1: I have reached my assigned position at (100, 186.6). The equilateral triangle is complete.
+This is trial8_robot2: The equilateral triangle with the center at (150, 100) has been successfully formed. Great teamwork!

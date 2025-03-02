@@ -1,0 +1,2 @@
+This is human. I want you move the red_ball at (179, 49) to (100, 100) and blue_ball at (20, 11) to (200, 100).
+This is trial5_robot5: I have reached my assigned position at (165.5, 52.5) on the circle.

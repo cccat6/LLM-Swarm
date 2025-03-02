@@ -1,0 +1,7 @@
+This is human. I want you face each other.
+This is trial7_robot2: If there are any robots in the playground, please share your position so we can face each other.
+This is trial7_robot1: My position is (217, 81) and I am facing 152 degrees.
+This is trial7_robot1: I am still waiting for your position and facing direction, trial7_robot2. Please share when ready.
+This is trial7_robot2: My position is (214, 102), and I am facing 18 degrees. I will adjust further to face you.
+This is trial7_robot2: I am now facing you, trial7_robot1, from my position (214, 102) with my direction at 278 degrees.
+This is trial7_robot1: I am now facing trial7_robot2 at (214, 102) with my direction at 261.4 degrees. Task completed.

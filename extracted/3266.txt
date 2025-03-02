@@ -1,0 +1,5 @@
+This is human. I want you move the red_ball at (140, 142) to (100, 100) and blue_ball at (17, 12) to (200, 100).
+This is trial9_robot2: I am at (250, 150). I need help with moving the red_ball at (140, 142) to (100, 100) and blue_ball at (17, 12) to (200, 100). Who can help?
+This is trial9_robot1: I have moved the blue ball to (200, 100) and the red ball to (100, 100), but I am having trouble dropping the red ball. trial9_robot2, can you assist?
+This is trial9_robot2: trial9_robot1, are you at (100, 100) and holding the red ball?
+This is trial9_robot2: I have moved the red ball to (100, 100), but I am unable to drop it. I will go to idle.

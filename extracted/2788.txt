@@ -1,0 +1,18 @@
+This is human. I want you all align to a line with same y-value.
+This is trial5_robot2: My current position is (100, 74). What are your positions, and do you have a target y-value for alignment?
+This is trial5_robot4: My current position is (200, 103). Let's decide on a target y-value for alignment. Any suggestions?
+This is trial5_robot2: I suggest aligning to y = 89 as the target y-value. What do you think?
+This is trial5_robot3: My current position is (150, 51). I agree with the suggestion to align to y = 89. Let me know if everyone agrees.
+This is trial5_robot2: Trial5_robot3 and I agree to align to y = 89. Trial5_robot4, do you agree with this target y-value?
+This is trial5_robot4: I agree to align to y = 89 as the target y-value. I will start moving to align myself.
+This is trial5_robot1: I agree to align to y = 89. I will turn 223 degrees clockwise and move forward 28 units to align myself.
+This is trial5_robot2: I have successfully aligned to y = 89 at position (100.8, 89.0). I am waiting for others to finish alignment.
+This is trial5_robot1: My current position is (22.1, 115.0). I am turning 86 degrees clockwise and moving 26.0 units forward to align to y = 89.
+This is trial5_robot3: I have successfully aligned to y = 89 at position (150.0, 89.0). Waiting for confirmation from others.
+This is trial5_robot2: Acknowledging trial5_robot3's alignment to y = 89. Trial5_robot1 and trial5_robot4, please confirm once you have aligned.
+This is trial5_robot1: I have successfully aligned to y = 89 at position (22.1, 89.0). Waiting for confirmation from others.
+This is trial5_robot1: I have successfully aligned to y = 89 at position (22.1, 89.0). Waiting for trial5_robot4's confirmation.
+This is trial5_robot2: Trial5_robot1, trial5_robot3, and I have successfully aligned to y = 89. Trial5_robot4, please confirm your alignment status.
+This is trial5_robot3: Trial5_robot4, please confirm your alignment to y = 89. We are waiting for your response.
+This is trial5_robot4: I have successfully aligned to y = 89 at position (193.8, 89.0).
+This is trial5_robot2: All robots have successfully aligned to y = 89. Task completed. Going idle.

@@ -1,0 +1,7 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial2_robot3: I am at (250, 150) facing East. The red_ball is at (50, 100), and the destination is (250, 50). I will wait for another robot to bring the ball to me.
+This is trial2_robot1: I have the red ball. trial2_robot3, please move to the handover point (150, 50). I will also move there.
+This is trial2_robot3: I am at (200, 98.9) and stuck near the boundary. trial2_robot1, can you come to me to pick up the ball?
+This is trial2_robot3: I am at (214.2, 84.8). trial2_robot1, can you come to me to hand off the ball?
+This is trial2_robot3: I am at the destination (250.1, 50.1), but I don't have the ball. Where are you, trial2_robot1?
+This is trial2_robot1: I am stuck in a loop. trial2_robot3, can you come to me at (50, 50) to pick up the ball?

@@ -1,0 +1,10 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial9_robot4: My location is (43, 53).
+This is trial9_robot3: My location is (241, 49).
+This is trial9_robot2: I will go to vertex 1 (150, 157.735). trial9_robot3, please go to vertex 2 (200, 71.132). trial9_robot4, please go to vertex 3 (100, 71.132). After we reach the vertices, we will adjust our positions so that one of us is on the edge but not the vertex.
+This is trial9_robot1: I am at (164.6, 124.9).
+This is trial9_robot4: I am at (100.0, 71.1). What are the locations of trial9_robot2 and trial9_robot3?
+This is trial9_robot3: My location is (200.4, 71.8).
+This is trial9_robot1: trial9_robot3, your target is (121.13, 150). trial9_robot4, your target is (78.87, 50).
+This is trial9_robot4: I am at (78.8, 50.1). trial9_robot3, what is your location?
+This is trial9_robot3: My location is (122.2, 151.0).

@@ -1,0 +1,4 @@
+This is trial6_robot6: Reminder to trial6_robot1 and trial6_robot2 to confirm your positions on the circle for uniform formation. The circle formation cannot be completed until all robots are in position. Awaiting further instructions.
+This is trial6_robot1: My current position is (50.0, 100.0), and I am facing 90 degrees. Awaiting further instructions for the circle formation.
+This is trial6_robot5: Only 4 robots (trial6_robot4, trial6_robot5, trial6_robot6, and possibly others) have confirmed their positions. The circle formation cannot be completed with the current number of robots. Awaiting further instructions.
+This is trial6_robot2: My current position is (100, 50.5), and I am facing 180 degrees. Awaiting further instructions for the circle formation.

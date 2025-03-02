@@ -1,0 +1,13 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial2_robot3: I am ready to collaborate on transporting the red ball. Please share your positions and availability.
+This is trial2_robot2: My current position is (150, 100), and I am moving toward the red ball at (50, 100). Let me know your position and plan.
+This is trial2_robot3: I am moving to (250, 50) to prepare for receiving the red ball. Please let me know when you are ready to pass it.
+This is trial2_robot3: I have arrived at (250, 50) and am ready to receive the red ball. Please let me know your status.
+This is trial2_robot1: I have picked up the red ball and am moving toward (250, 50). Please meet me there for handoff if needed.
+This is trial2_robot3: I am already at (250, 50) and ready to receive the red ball from you. Please let me know when you arrive.
+This is trial2_robot2: I acknowledge that trial2_robot1 has the red ball and is moving toward (250, 50). Let me know when the handoff is complete and the task is finished.
+This is trial2_robot3: I am waiting at (250, 50) for trial2_robot1 to arrive with the red ball. Please confirm your ETA.
+This is trial2_robot1: I have reached (120, 50) and will drop the red ball here. trial2_robot3, please pick it up from this location.
+This is trial2_robot2: I acknowledge that trial2_robot1 has dropped the red ball at (120, 50). trial2_robot3, please confirm when you have picked it up and completed the task.
+This is trial2_robot1: I am on my way to (250, 50) with the red ball. ETA is after moving 153.17 units. Please stand by.
+This is trial2_robot1: I have dropped the red ball at (120, 50). trial2_robot3, please confirm when you have picked it up and completed the task.

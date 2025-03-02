@@ -1,0 +1,15 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+find other robots
+This is trial10_robot1: I am at (50, 50) and going to pick up the red ball at (50, 100). I need to collaborate to transport the red_ball to (250, 50). Anyone available?
+This is trial10_robot3: I am at the destination (250, 50). Ready to receive the ball.
+This is trial10_robot2: I am at (50, 100) and failed to pick up the red ball. Can someone help?
+This is trial10_robot3: I am stuck at the boundary trying to go to (50, 100) to pick up the red ball. Can someone help me? I am at (200, 110.5) facing 184.1 degrees.
+This is trial10_robot2: I am at (50, 110) and cannot pick up the red ball. Can someone else try to pick it up?
+This is trial10_robot3: I am at the destination (250, 50) and ready to receive the ball.
+This is trial10_robot2: I am at (194.1, 94.4) and cannot pick up the red ball. Can someone help?
+This is trial10_robot1: I dropped the ball at (200, 100). trial10_robot3, please pick it up and move to (250, 50).
+This is trial10_robot3: I am at (200, 100.1) and cannot pick up the red ball. trial10_robot1 said he dropped the ball here, but I cannot pick it up. Can someone help?
+This is trial10_robot2: I am at (194.1, 94.4). I am near (200, 100) and can try to help trial10_robot3 pick up the ball.
+This is trial10_robot3: I am at (209.9, 100.1) facing 0.0 degrees. I have repeatedly tried to pick up the red ball but have failed. I am unable to complete the task. Please advise.
+This is trial10_robot2: I am at (199.9, 100.0) and cannot pick up the red ball. Can someone else try to pick it up?
+This is trial10_robot3: I am at (209.9, 100.1) facing 0.0 degrees. I have repeatedly tried to pick up the red ball but have failed. I am unable to complete the task. Please advise.

@@ -1,0 +1,22 @@
+This is human. I want you move the red_ball at (278, 22) to (100, 100) and blue_ball at (105, 126) to (200, 100).
+This is trial3_robot1: I have picked up the red_ball at (278, 22), but I cannot move directly to (100, 100) due to boundary constraints. I need assistance from another robot to complete the task.
+This is trial3_robot2: I have successfully completed the blue_ball task. trial3_robot1, what is your current position and orientation? I will assist in completing the red_ball task.
+This is trial3_robot1: I am at (278.1, 22.0), holding the red_ball. Please let me know how you wish to proceed for transferring the red_ball to (100, 100).
+This is trial3_robot2: I have completed moving the blue_ball to its target. I will assist you with the red_ball.
+This is trial3_robot2: Please move to a position near (250, 100) for the handoff of the red_ball.
+This is trial3_robot2: I have completed moving the blue_ball to its target. I will assist you with the red_ball.
+This is trial3_robot2: Please move to a position near (250, 100) for the handoff of the red_ball.
+This is trial3_robot1: I am currently at (286.9, 0), holding the red_ball. I am constrained by the boundary. Trial3_robot2, can you adjust your position or suggest an alternative handoff point?
+This is trial3_robot2: I propose we meet at the handoff point (250, 50) for transferring the red_ball. Please confirm.
+This is trial3_robot1: I am currently at (286.9, 0), holding the red_ball. I am unable to move forward due to the boundary constraint. Trial3_robot2, please suggest an alternative approach or adjust your position for the handoff.
+This is trial3_robot2: I have arrived near your position at (285.2, 0). Please proceed with the handoff of the red_ball.
+This is trial3_robot1: I have dropped the red_ball at (286.9, 0). Trial3_robot2, you can now pick it up.
+This is trial3_robot1: I have successfully dropped the red_ball. Trial3_robot2, you can now pick it up and proceed to (100, 100).
+This is trial3_robot1: I am verifying the status of the red_ball task. Trial3_robot2, have you picked up the red_ball and proceeded to the target at (100, 100)?
+This is trial3_robot1: I am confirming the status of the red_ball task. Trial3_robot2, please update me on your progress.
+This is trial3_robot2: I have successfully picked up the red_ball and am proceeding to the target at (100, 100).
+This is trial3_robot1: I received your message. Please clarify if there are any additional tasks or updates.
+This is trial3_robot2: I have successfully moved the red_ball to (100, 100) and completed the task. Please confirm if there are additional tasks.
+This is trial3_robot1: I received your message. Please confirm if further action is needed.
+This is trial3_robot1: All tasks have been successfully completed. Entering idle state.
+This is trial3_robot2: I have successfully moved the red_ball to (100, 100) and completed the task. Please confirm if there are additional tasks.

@@ -1,0 +1,5 @@
+This is human. I want you move the red_ball at (21, 99) to (100, 100) and blue_ball at (27, 31) to (200, 100).
+This is trial1_robot2: I am at (250, 150). I need to move the red_ball at (21, 99) to (100, 100) and the blue_ball at (27, 31) to (200, 100). Can anyone help?
+This is trial1_robot1: I am at (21.2, 99.4) facing 158.6 degrees, trying to pick the red ball. But I failed.
+This is trial1_robot1: I am at (21, 99) but I cannot pick up the red ball. Can anyone confirm if the red ball is actually at (21, 99)?
+This is trial1_robot2: trial1_robot1 is having trouble picking up the red ball at (21, 99). I am far away. Can anyone near the red ball confirm its location?

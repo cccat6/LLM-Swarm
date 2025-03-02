@@ -1,0 +1,9 @@
+This is human. I want you all align to a line with same y-value.
+This is trial5_robot1: My position is (50, 115).
+my position
+task completed
+This is trial5_robot3: My position is (150, 96).
+This is trial5_robot1: Align to y = 115.
+This is trial5_robot2: I have moved to (99, 114).
+This is trial5_robot3: I have moved to (150, 115).
+This is trial5_robot4: I have moved to (200, 115).

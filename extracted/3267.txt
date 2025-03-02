@@ -1,0 +1,14 @@
+This is human. I want you move the red_ball at (178, 156) to (100, 100) and blue_ball at (15, 141) to (200, 100).
+This is trial10_robot1: I am trying to pick up the red ball at (178.4, 157.0), but I keep failing. Is there any other robot?
+This is trial10_robot2: I am at (15.1, 141.5) trying to pick up the blue ball, but I am picking up the red ball instead. I suspect the blue ball is not here. Can anyone confirm the location of the blue ball?
+This is trial10_robot1: I am at (179.2, 157.7) and I cannot find the red ball. trial10_robot2, can you come here and try to pick it up?
+This is trial10_robot2: I am at (179.2, 157.8) and I cannot find the red ball here. I failed to pick it up.
+This is trial10_robot1: I am having trouble navigating. I am going back to (50, 50) to start over. Please wait.
+This is trial10_robot1: I am stuck at (172.8, 200) at the boundary. Can someone help me to move to (178, 156) to pick the blue ball?
+This is trial10_robot2: I am at (172.7, 199.9) to help you.
+This is trial10_robot1: trial10_robot2, please turn -83.1 degree and move 44.3 to move me to (178, 156).
+This is trial10_robot2: I turned and moved, but I am still at the boundary at (173.4, 200).
+This is trial10_robot1: trial10_robot2, can you sense the boundary and tell me the distances to the front, right, back, and left?
+This is trial10_robot2: The distances to the boundary are front: 0.0, right: 171.0, back: 257.9, left: 0.0.
+This is trial10_robot1: I am stuck at the boundary and need help to move the blue ball to (200, 100). Can anyone help?
+This is trial10_robot2: I am at (178, 156) and there is no blue ball here. I tried to pick it up, but failed. Can anyone provide the correct location of the blue ball?

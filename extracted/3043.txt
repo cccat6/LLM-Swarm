@@ -1,0 +1,6 @@
+This is human. I want you face each other.
+This is trial3_robot1: What is your position?
+my current position
+This is trial3_robot2: My position is x: 97, y: 90, direction: 214
+This is trial3_robot1: My position is (69, 73). Are you facing me?
+This is trial3_robot2: Yes, I am approximately facing you.

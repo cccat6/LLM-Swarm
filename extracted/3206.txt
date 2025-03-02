@@ -1,0 +1,25 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+Please identify yourselves.
+This is trial7_robot5: Reporting my position. I am at (183, 84) facing 251. Please identify yourselves.
+location
+This is trial7_robot6: Reporting my position. I am at (237, 69) facing 256.
+This is trial7_robot1: My position is x=154, y=22, direction=21.
+This is trial7_robot2: My position is x=45, y=140, direction=110.
+This is trial7_robot5: Moving to (200, 100). Turning 152.3 degrees, then moving 23.35 units.
+This is trial7_robot1: I am at (155.1, 50.1), direction 87.7. I am close to my target.
+This is trial7_robot5: I have reached my position at (200, 100).
+monitoring to see if I can help other robots
+This is trial7_robot6: I have reached my position at (149.9, 49.9).
+This is trial7_robot6: I have reached my position at (150.0, 50.0).
+This is trial7_robot5: Please trial7_robot1, trial7_robot2, trial7_robot6, report your target position.
+This is trial7_robot1: My target position is (153.1, 50.1).
+my location at (150.0, 50.0)
+This is trial7_robot5: Please trial7_robot2, trial7_robot6, report your target position.
+This is trial7_robot5: trial7_robot6, please move to (100, 100). trial7_robot2, please move to (150, 150).
+This is trial7_robot6: I have reached my position at (100.0, 100.0).
+This is trial7_robot5: trial7_robot2, please turn -104.56 degrees and move 105.47 units to reach (150, 150).
+my location
+This is trial7_robot5: trial7_robot2, please report your current position, direction, and distances.
+This is trial7_robot5: trial7_robot2, please turn -104.56 degrees, then move 20 units, and then report your current position.
+This is trial7_robot5: trial7_robot6, please turn 59.98 degrees and move 50.0 units to reach (125, 143.3). trial7_robot1, please turn 167.4 degrees and move 30.8 units to reach (125, 56.7).
+This is trial7_robot6: I have reached my position at (125.0, 143.3).

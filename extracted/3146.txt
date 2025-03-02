@@ -1,0 +1,44 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial5_robot1: I am going to (207.74, 100). I will turn 43.2 degrees and move 81.51 units.
+This is trial5_robot3: I am at (121.1, 100.0)
+This is trial5_robot1: Where is trial5_robot2?
+This is trial5_robot3: Where is trial5_robot2?
+This is trial5_robot2: I am at (150.6, 91.9) and facing 320.3 degrees.
+This is trial5_robot3: trial5_robot2, please move to V3 = (121.13, 50). Turn -84.86 degrees and move 51.23 units.
+This is trial5_robot4: I am at (165.7, 138.2).
+This is trial5_robot3: trial5_robot2, are you at V3 = (121.13, 50)?
+This is trial5_robot1: trial5_robot2, where are you now?
+This is trial5_robot3: trial5_robot2, are you at V3 = (121.13, 50)?
+This is trial5_robot2: I am at (120.6, 111.2) and facing 245.5 degrees. I am heading to (150, 150).
+This is trial5_robot1: trial5_robot2, your target location is (121.13, 50), not (150, 150).
+This is trial5_robot3: trial5_robot2, your target is (121.13, 50). Please turn 25.07 degrees and move 61.20 units.
+This is trial5_robot3: trial5_robot2, have you reached V3 = (121.13, 50)?
+This is trial5_robot1: trial5_robot2, where are you now?
+This is trial5_robot4: I am at (165.7, 138.2).
+This is trial5_robot2: I am at (54.3, 200) and facing 99.2 degrees. My target is (121.13, 50), but I am blocked by the boundary and need help.
+This is trial5_robot3: trial5_robot2, you are going to the wrong direction. Please turn 180 degrees.
+This is trial5_robot4: trial5_robot2, please sense and report your distances to the boundary.
+This is trial5_robot2: My distances to the boundary are: front: 0.0, right: 239.0, back: 65.9, left: 0.0.
+This is trial5_robot3: trial5_robot2, since you are at the corner, please turn right 90 degrees, move 50 units, then turn right 90 degrees again, and move 70 units towards the target.
+This is trial5_robot4: trial5_robot2, please follow trial5_robot3's suggestion: turn right 90 degrees, move 50 units, then turn right 90 degrees again, and move 70 units towards the target.
+(207.8, 100.0)
+This is trial5_robot4: I am at (165.7, 138.2).
+This is trial5_robot2: Trying to move to the target
+This is trial5_robot1: trial5_robot3 and trial5_robot4, are you still helping trial5_robot2?
+This is trial5_robot3: Yes, trial5_robot1, I am still helping trial5_robot2.
+This is trial5_robot4: I am at (165.7, 138.2).
+This is trial5_robot2: I am at (0, 199.4) and facing 146.3 degrees. I am blocked by the boundary again. Can someone give me more detailed instructions on how to reach (121.13, 50)?
+This is trial5_robot1: trial5_robot2, turn right 90 degrees, move right 50 units, then turn -50.98 degrees, and move 192.54 units.
+This is trial5_robot4: trial5_robot2, turn 162.74 degrees and move 192.33 units.
+This is trial5_robot2: I am at (0.1, 200) and cannot reach the target (121.13, 50) due to the boundary. I need assistance.
+This is trial5_robot4: What are your boundary constraints?
+This is trial5_robot3: trial5_robot2, please provide your boundary constraints (distances to the front, right, back, and left boundaries).
+This is trial5_robot4: trial5_robot2, please provide your boundary constraints (distances to the front, right, back, and left boundaries).
+This is trial5_robot1: trial5_robot2, what are your boundary constraints?
+This is trial5_robot4: I am at (165.7, 138.2).
+This is trial5_robot2: My boundary constraints are: front: 0.0, right: 0.0, back: 224.1, left: 0.1.
+This is trial5_robot3: trial5_robot2, move backward 200 units, then turn right 90 degrees and move towards the target (121.13, 50).
+This is trial5_robot4: I am at (131.6, 109.5) and heading to (81.5, 109.5) to help trial5_robot2.
+This is trial5_robot2: I have reached the target position (121.13, 50).
+This is trial5_robot1: trial5_robot3, where are you now?
+This is trial5_robot3: I am at (121.1, 100.0). The task is completed.

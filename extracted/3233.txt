@@ -1,0 +1,5 @@
+This is human. I want you pick up the red_ball at (145, 29), then send the object to (150, 100).
+This is trial3_robot1: I am at (145, 29) and cannot pick up the red ball. Can anyone help?
+This is trial3_robot1: I am at (145, 29) and I cannot pick up the red ball. Can anyone help?
+This is trial3_robot1: I am at (145, 29) and I cannot pick up the red ball. Can anyone help?
+This is trial3_robot1: I am at (145, 29) and I cannot pick up the red ball. I am giving up on picking up the object.

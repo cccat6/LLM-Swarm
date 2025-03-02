@@ -1,0 +1,23 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+pick up the red ball
+handoff the ball to another robot
+This is trial9_robot3: I am at (250, 150) facing East. I need to move to the red ball at (50, 100). I will turn -165.96 degrees and move 206.16 units. Is there any robot near the final destination (250, 50)?
+This is trial9_robot1: I have dropped the red ball at (120, 82.5). Someone please pick it up and move it to (250, 50.)
+This is trial9_robot1: The red ball is still at (120, 82.5). Is anyone going to move it to (250, 50)?
+This is trial9_robot1: I am stuck at (120, 82.5) and cannot move the red ball further. Can someone help to move the red ball from (120, 82.5) to (250, 50)?
+This is trial9_robot3: I am at (200, 136.7) and facing 235.3 degrees. I am blocked and cannot move to the red ball at (120, 82.5). Can someone help me?
+This is trial9_robot2: I am at (121.0, 82.5) and I am unable to pick up the red ball. Can someone help?
+This is trial9_robot1: trial9_robot2, try turning to 90 degrees and then pick up the ball.
+This is trial9_robot3: I am at the destination (250, 50). trial9_robot2, do you need help with the red ball?
+This is trial9_robot2: I am at (220, 71.7) and I am holding the red ball, but I am unable to drop it. trial9_robot3, can you come and pick it up?
+This is trial9_robot1: trial9_robot2, turn -35.9 degrees and move 37.02 units to the destination (250, 50). Then drop the ball for trial9_robot3 to pick up.
+This is trial9_robot2: I am still blocked at (220, 71.9) and cannot move to the destination (250, 50) to drop the red ball. trial9_robot3, can you come and pick it up at my location?
+This is trial9_robot2: I am at (220, 71.9) and I am unable to drop the red ball. trial9_robot3, can you come and pick it up?
+This is trial9_robot1: trial9_robot3, please turn 143.8 degrees and move 37.14 units to (220, 71.9) to pick up the red ball from trial9_robot2. Then move back to the destination (250, 50).
+This is trial9_robot2: I am at (215.0, 91.3) and I am unable to drop the red ball. trial9_robot3, can you come and pick it up?
+This is trial9_robot3: I am at (220.0, 71.8). trial9_robot2, can you come closer to me so I can pick up the red ball?
+This is trial9_robot1: trial9_robot2, please turn -75.6 degrees and move 20.13 units towards trial9_robot3 at (220.0, 71.8).
+This is trial9_robot2: I am at (220.0, 71.8) and still cannot drop the red ball. I am going idle.
+This is trial9_robot1: trial9_robot3, please pick up the red ball from trial9_robot2. Then move to the destination (250, 50).
+This is trial9_robot3: I have reached the destination (250, 50) but I do not have the red ball. What should I do?
+This is trial9_robot2: I was at (220.0, 71.8) and unable to drop the red ball. I am currently idle.

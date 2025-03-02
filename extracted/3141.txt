@@ -1,0 +1,13 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial4_robot4: I am moving to the midpoint of edge AB, which is approximately (135.57, 103.87). I will turn 73.92 degrees counterclockwise and then move 84.99 units.
+This is trial4_robot3: I am moving to vertex A (100, 71.13). I will turn 116.63 degrees counterclockwise and then move 149.44 units.
+This is trial4_robot1: I have reached vertex A (207.7, 99.9).
+This is trial4_robot4: trial4_robot3 and trial4_robot1, there seems to be a discrepancy in our vertex calculations. My calculated vertex coordinates are A: (150, 157.735), B: (121.1325, 50), and D: (178.8675, 50). Can you please double-check your target coordinates?
+This is trial4_robot1: trial4_robot4, your calculation is wrong. The vertices should be A (207.735, 100), B (121.1325, 150), and C (121.1325, 50).
+This is trial4_robot3: I am correcting my position and moving back to the center (150, 100). I will turn -174.11 degrees and move 150.46 units.
+This is trial4_robot4: I am correcting my position to the midpoint of BC (121.1325, 100). I will turn 108.1 degrees and move 14.98 units.
+This is trial4_robot3: I am correcting my course and moving to vertex B (63.397, 71.13). I will turn 6.28 degrees counterclockwise and then move 237.22 units.
+This is trial4_robot4: trial4_robot3, the correct coordinate for vertex B is (121.1325, 150). Please move to this location.
+This is trial4_robot3: I am moving to vertex B (121.1325, 150). I will turn -157.47 degrees and then move 133 units.
+This is trial4_robot4: trial4_robot1, please confirm that you are at vertex A (207.735, 100).
+This is trial4_robot1: Yes, I am at vertex A (207.7, 99.9), which is very close to (207.735, 100).

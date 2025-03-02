@@ -1,0 +1,1 @@
+This is human. I want you move the red_ball at (203, 79) to (100, 100) and blue_ball at (270, 144) to (200, 100).

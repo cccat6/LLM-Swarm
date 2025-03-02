@@ -1,0 +1,8 @@
+This is human. I want you move the red_ball at (181, 112) to (100, 100) and blue_ball at (14, 122) to (200, 100).
+This is trial3_robot2: I am at (250, 150) facing 0 degrees. I am going to pick up the red ball at (181, 112). I will turn -151.14 degrees and move 78.77 units.
+This is trial3_robot2: I have picked up the red ball. I am going to move it to (100, 100). I will turn -20.47 degrees and move 81.88 units.
+This is trial3_robot2: I have dropped the red ball at (100, 100). I am going to move to the blue ball at (14, 122). I will turn -22.76 degrees and move 88.77 units.
+This is trial3_robot2: I have picked up the blue ball. I am going to move it to (200, 100). I will turn -172.36 degrees and move 187.29 units.
+This is trial3_robot2: I am at (201.3, 119.8) carrying blue_ball. I should drop it at (200, 100). I will turn -93.05 degrees and move 19.84 units.
+This is trial3_robot2: I am at (14.0, 116.9) carrying blue_ball. I should drop it at (200, 100). I will turn -99.09 degrees and move 186.76 units.
+This is trial3_robot2: I am at (51.5, 113.5) carrying blue_ball. I should drop it at (200, 100). I will turn 0 degrees and move 149.11 units.

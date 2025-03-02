@@ -1,0 +1,8 @@
+This is human. I want you face each other.
+This is trial8_robot1: Are there any other robots in the playground? Please respond with your name and position.
+This is trial8_robot2: I am here at position (108, 112).
+This is trial8_robot1: I am now facing you, trial8_robot2. Are you facing me? If not, I can assist.
+This is trial8_robot2: What is your position, trial8_robot1? I will check if I am facing you.
+This is trial8_robot1: My current position is (269, 47). Please check if you are facing me.
+This is trial8_robot1: trial8_robot2, you should turn to face 338 degrees to look at me.
+This is trial8_robot2: I am now facing you, trial8_robot1.

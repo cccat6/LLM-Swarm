@@ -1,0 +1,7 @@
+This is human. I want you face each other.
+This is trial10_robot1: Is there any other robot present? Please identify yourself.
+This is trial10_robot2: I am here.
+This is trial10_robot1: trial10_robot2, please provide your current x and y coordinates.
+This is trial10_robot2: My current coordinates are x=95, y=132.
+This is trial10_robot1: trial10_robot2, I am now facing you. Are you facing me?
+I am facing trial10_robot1

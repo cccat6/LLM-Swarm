@@ -1,0 +1,15 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+I intend to participate in the formation.
+This is trial6_robot3: My current position is (121, 46). I propose to move to Vertex 3 (125, 56.7). Please confirm your roles for Vertex 1, Vertex 2, and the edge.
+This is trial6_robot4: I propose to take the edge position at (175, 100). Vertex 3 is already assigned to trial6_robot3. Please confirm the roles for Vertex 1 and Vertex 2.
+This is trial6_robot3: I confirm my assignment to Vertex 3 (125, 56.7). trial6_robot4 has taken the edge at (175, 100). Remaining robots, please confirm your roles for Vertex 1 (200, 100) and Vertex 2 (125, 143.3).
+This is trial6_robot1: I will take Vertex 2 (125, 143.3). Remaining robot, please confirm Vertex 1 (200, 100).
+This is trial6_robot2: I will take Vertex 1 (200, 100).
+This is trial6_robot4: I have reached the edge position at approximately (175, 100). Awaiting confirmation from all robots that they are in position.
+I have arrived at Vertex 3 (125, 56.7).
+This is trial6_robot1: I have arrived at Vertex 2 (125, 143.3). Formation is complete on my end. Awaiting final confirmation from all robots.
+confirmation
+This is trial6_robot4: The equilateral triangle formation is complete. Excellent work, everyone!
+This is trial6_robot2: I have arrived at Vertex 1 (200, 100). Formation is complete on my end. Awaiting final confirmation from all robots.
+This is trial6_robot4: All robots have confirmed their positions. The equilateral triangle formation is successfully completed. Excellent teamwork!
+This is trial6_robot3: I have successfully reached Vertex 3 (125.0, 56.7). The equilateral triangle formation is complete on my end. Excellent teamwork!

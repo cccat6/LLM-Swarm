@@ -1,0 +1,2 @@
+This is human. I want you move the red_ball at (133, 53) to (100, 100) and blue_ball at (205, 116) to (200, 100).
+This is trial4_robot2: I need assistance to move the red_ball from (133, 53) to (100, 100) and the blue_ball from (205, 116) to (200, 100). Is there another robot available to help?

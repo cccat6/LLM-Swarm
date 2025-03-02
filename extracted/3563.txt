@@ -1,0 +1,2 @@
+This is trial3_robot3: I have picked up the red_ball at (50, 100). Let’s coordinate the next steps.
+This is trial3_robot2: I am at (100, 100) and cannot move further West due to boundary constraints. The red_ball is outside my boundary. Please coordinate with me to complete the task.

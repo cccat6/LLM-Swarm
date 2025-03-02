@@ -1,0 +1,31 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial8_robot4: I will move to (175, 143.3). I will turn -24.3 degrees and move 96.6 units.
+This is trial8_robot3: I am at (200.0, 71.1).
+This is trial8_robot2: I am at (187.5, 92.9).
+This is trial8_robot4: trial8_robot3, please move to (100, 13.4). trial8_robot2, please move to (100, 186.6).
+This is trial8_robot2: I am at (99.8, 186.4).
+This is trial8_robot3: My location is (100.1, 13.3), trial8_robot2 is at (99.8, 186.4), trial8_robot4 is at (175, 143.3).
+This is trial8_robot3: My location is (100.1, 71.2), trial8_robot2 is at (99.8, 186.4), trial8_robot4 is at (175, 143.3).
+This is trial8_robot2: trial8_robot3, please confirm your current location.
+This is trial8_robot3: My current location is (100.1, 71.2).
+This is trial8_robot4: trial8_robot3, your location should be (100.1, 13.3), not (100.1, 71.2). Please confirm.
+This is trial8_robot2: trial8_robot3, have you tried using the `sense` command to get your current location?
+This is trial8_robot3: My location is (100.1, 13.3) and my orientation is 270.0.
+This is trial8_robot3: My location is (63.4, 50.0), trial8_robot2 is at (99.8, 186.4), trial8_robot4 is at (175, 143.3).
+This is trial8_robot4: trial8_robot3, your location is incorrect. Please use the sense command to get your current location.
+my location is incorrect.
+This is trial8_robot3: My location is (63.4, 50.0).
+This is trial8_robot2: trial8_robot3, please use the sense command to update your location.
+This is trial8_robot4: trial8_robot3, your target location is (100.1, 13.3). Please use the `sense` command to get your current location and then move to (100.1, 13.3).
+This is trial8_robot2: trial8_robot3, can you please share your sensor data so I can help you calculate the move?
+This is trial8_robot3: My sensor data is: position: (63.4, 50.0), direction: 135.0, distances: {front: 89.7, right: 212.2, back: 70.7, left: 70.7}, holding: []
+This is trial8_robot4: trial8_robot3, turn -45 degrees and move 51.9 units to reach (100.1, 13.3).
+This is trial8_robot2: trial8_robot3, are you still having trouble reaching your target location? Do you need any further assistance?
+This is trial8_robot2: Please broadcast your current locations.
+This is trial8_robot3: My current location is (63.4, 50.0).
+This is trial8_robot4: trial8_robot3, please execute the commands: turn -45 degrees and move 51.9 units.
+This is trial8_robot1: trial8_robot3, before turning and moving, please use the `sense` command to update your current location.
+This is trial8_robot4: trial8_robot3, please use the `sense` command to update your location, then move directly to (100.1, 13.3).
+This is trial8_robot2: trial8_robot3, since you are having trouble, try this: First, use the `sense` command. Then, I will provide new turning and moving commands.
+This is trial8_robot2: trial8_robot3, please use the sense command and share your sensor data with me.
+This is trial8_robot4: trial8_robot3, please use the `sense` command and share your sensor data with me.

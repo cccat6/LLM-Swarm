@@ -1,0 +1,40 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+my current position
+This is trial1_robot3: My position is (220, 141)
+This is trial1_robot2: What is your position?
+This is trial1_robot1: My position is (23, 38)
+This is trial1_robot4: My position is (198.3, 86.9)
+This is trial1_robot5: trial1_robot2, please report your position.
+This is trial1_robot1: I have reached my position at (100, 100)
+This is trial1_robot2: trial1_robot1, your target position should be (200, 100), not (100, 100). trial1_robot3, your target position is (100, 100).
+This is trial1_robot1: I have reached my position at (200, 100)
+This is trial1_robot5: I am at my position. Waiting for others to confirm.
+I have reached my position.
+This is trial1_robot5: Please confirm your positions. trial1_robot1: (200, 100), trial1_robot3, trial1_robot4
+This is trial1_robot4: I am at (198.3, 86.9)
+This is trial1_robot2: trial1_robot4, your target position should be (150, 50), not (198.3, 86.9).
+This is trial1_robot5: trial1_robot4, your target position should be (180.0, 60.0), not (150, 50). You need to turn to 55.6 degrees and move 32.5 units.
+This is trial1_robot2: trial1_robot5, the target position for trial1_robot4 should be (150, 50). trial1_robot4, your target position is (150, 50).
+This is trial1_robot4: My current position is (198.3, 86.9)
+This is trial1_robot2: trial1_robot4, your target position is (150, 50). The angle to the target is 217.3 degrees. The distance to the target is 60.9 units. You need to figure out the turning angle based on your current direction.
+This is trial1_robot5: I am at (150, 150). Waiting for others to confirm.
+trial1_robot5 broadcasted that it is at (150, 150). I am at (200, 100).
+This is trial1_robot5: trial1_robot1 and trial1_robot4, please report your positions.
+This is trial1_robot4: I am at (152.7, 46.7)
+This is trial1_robot3: trial1_robot2, please report your position.
+This is trial1_robot5: trial1_robot2, are you still having trouble? I can help you find your position.
+This is trial1_robot2: I am not having any trouble. I have reached my position and am in the idle state.
+This is trial1_robot5: All robots, please report your current positions.
+This is trial1_robot1: I am at (200, 100)
+This is trial1_robot4: My position is (152.7, 46.7)
+This is trial1_robot5: There seems to be a mix-up. trial1_robot1 is at (200, 100), which is trial1_robot3's target. trial1_robot3, please report your position. trial1_robot1, your target is (100, 100).
+This is trial1_robot2: trial1_robot3, please report your current position.
+This is trial1_robot3: My current position is (100.3, 99.5)
+This is trial1_robot5: trial1_robot1, your target is (100, 100). trial1_robot3, your target is (200, 100).
+This is trial1_robot2: trial1_robot5, trial1_robot1's target is (200, 100), and trial1_robot3's target is (100, 100). trial1_robot3 is already at its target.
+This is trial1_robot5: trial1_robot1, your target is (100, 100). trial1_robot3, your target is (200, 100).
+This is trial1_robot1: I am at (100, 100)
+This is trial1_robot2: trial1_robot1, your target position is (200, 100). You are currently at the wrong location. Please move to (200, 100).
+This is trial1_robot5: trial1_robot3, please confirm your current location.
+This is trial1_robot3: trial1_robot1, please move to your target position (200, 100).
+This is trial1_robot1: I have reached my position at (200, 100)

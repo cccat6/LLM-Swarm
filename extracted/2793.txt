@@ -1,0 +1,9 @@
+This is human. I want you all align to a line with same y-value.
+This is trial7_robot1: My current y-coordinate is 108. Please share your y-coordinates so we can align.
+This is trial7_robot3: My current y-coordinate is 151.
+This is trial7_robot2: My current y-coordinate is 158.
+This is trial7_robot3: Let us align at y = 151 since it minimizes movement.
+This is trial7_robot2: I am now aligned at y = 151.
+This is trial7_robot1: I am now aligned at y = 151. Trial7_robot3, please confirm your alignment.
+This is trial7_robot3: I am already aligned at y = 151.
+This is trial7_robot4: I am now aligned at y = 151.

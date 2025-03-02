@@ -1,0 +1,3 @@
+This is trial9_robot6: Since trial9_robot3 has not responded, I suggest we redistribute positions to form a uniform triangle. I will remain at (200, 100). trial9_robot4 and trial9_robot5, please move to (125, 143.3) and (125, 56.7), respectively. Let’s finalize the formation.
+This is trial9_robot3: trial9_robot6, I did not receive a position in the formation. Should I also participate, and if so, where should I move?
+This is trial9_robot1: trial9_robot6, trial9_robot3, I have not been assigned a position in the formation. Should I participate, and if so, where should I move?

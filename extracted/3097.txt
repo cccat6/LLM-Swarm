@@ -1,0 +1,10 @@
+This is human. I want you all align to a line with same y-value.
+my location
+This is trial10_robot3: My location is x=150, y=172, direction=65
+This is trial10_robot4: My location is x=200, y=120, direction=179
+This is trial10_robot2: My location is x=100, y=110, direction=252
+This is trial10_robot4: The target y-value is 120. I am already at y=120, so I will not move.
+This is trial10_robot2: The average y-value is 134. trial10_robot3 and trial10_robot4, please align to y = 134.
+This is trial10_robot4: I have moved to y=134. My location is x=200, y=134, direction=90.
+This is trial10_robot2: trial10_robot3, please confirm your location.
+This is trial10_robot3: My location is x=150, y=134, direction=90

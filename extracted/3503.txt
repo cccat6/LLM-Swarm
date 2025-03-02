@@ -1,0 +1,2 @@
+This is human. I want you pick up the red_ball at (216, 117), then send the object to (150, 100).
+This is trial8_robot5: I am in the playground and will participate in forming the circle. My current position is (51, 113) and my orientation is 251 degrees.

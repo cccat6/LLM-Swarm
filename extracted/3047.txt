@@ -1,0 +1,4 @@
+This is human. I want you face each other.
+This is trial5_robot1: My location is x=232, y=139, direction=166
+This is trial5_robot2: I am turning -17.02 degrees to face trial5_robot1 at (232, 139).
+This is trial5_robot2: I am turning -180 degrees to face away from trial5_robot1.

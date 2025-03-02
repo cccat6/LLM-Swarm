@@ -1,0 +1,4 @@
+This is human. I want you move the red_ball at (286, 86) to (100, 100) and blue_ball at (200, 87) to (200, 100).
+This is trial1_robot3: I have reached my position at (125, 56.7) and am ready to form the circle. Please confirm your positions.
+This is trial1_robot5: I have reached my position at (200, 100) and am ready to form the circle.
+This is trial1_robot3: Robot6, please confirm your position. Are you ready to form the circle?

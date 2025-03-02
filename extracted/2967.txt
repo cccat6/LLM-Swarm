@@ -1,0 +1,9 @@
+This is human. I want you move the red_ball at (214, 145) to (100, 100) and blue_ball at (128, 148) to (200, 100).
+This is trial5_robot2: I acknowledge your intention to pick up the red_ball at (214, 145). I will handle the blue_ball at (128, 148).
+This is trial5_robot1: I am moving toward the red_ball at (214, 145).
+This is trial5_robot1: I am heading toward the red_ball at (214, 145).
+This is trial5_robot2: I am currently at (128.0, 148.0) and attempting to pick up the blue_ball. Is anyone else working on this task?
+This is trial5_robot2: I am at (127.0, 148.0) and unable to pick up the blue_ball. Has anyone already taken it?
+This is trial5_robot1: I am moving the red_ball to its target at (100, 100).
+This is trial5_robot1: I have not taken the blue_ball at (127.0, 148.0). I am working on delivering the red_ball to (100, 100).
+This is trial5_robot1: I have successfully delivered the red_ball to (100, 100) and completed my task.

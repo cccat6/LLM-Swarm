@@ -1,0 +1,5 @@
+This is human. I want you pick up the red_ball at (196, 190), then send the object to (150, 100).
+This is trial4_robot4: I am participating in forming the circle. Please confirm your participation so we can determine the total number of robots and assign positions.
+This is trial4_robot5: I have already confirmed my participation in forming the circle.
+This is trial4_robot3: I am participating in forming the circle.
+This is trial4_robot4: All robots have confirmed participation. Let's determine the total number of robots and assign positions on the circle.

@@ -1,0 +1,12 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial5_robot1: I am available to collaborate on transporting the red_ball from (50, 100) to (250, 50). Please respond if you are also available.
+This is trial5_robot3: I am available. My current position is (250, 150). I am facing 0 degrees and not holding anything. I think trial5_robot1 should pick the red_ball at (50,100) and hand off the red ball to me at (50, 150), then I will move the red ball to the destination (250, 50).
+This is trial5_robot2: I am at (150, 100). I suggest this plan: 1. trial5_robot1 picks the ball at (50, 100). 2. trial5_robot1 hands off the ball to me at (100, 100). 3. I move the ball to (200, 50) and hand off the ball to trial5_robot3. 4. trial5_robot3 moves the ball to (250, 50).
+This is trial5_robot2: I am waiting at (100, 100) for the handoff. trial5_robot1, please confirm your status. trial5_robot3, please confirm your status.
+This is trial5_robot1: I have dropped the red_ball at (100, 100). I am waiting for confirmation that the task is complete.
+This is trial5_robot2: I have dropped the red_ball at (200, 51.9). trial5_robot3, please pick it up and move it to the destination (250, 50).
+I need to pick up the red_ball and move it to the destination (250, 50).
+This is trial5_robot2: trial5_robot3, please provide your status. Have you picked up the red_ball at (200, 51.9) and moved it to (250, 50)?
+This is trial5_robot1: trial5_robot3, do you need any help? I am available.
+This is trial5_robot2: trial5_robot3, please provide your status.
+This is trial5_robot3: I have dropped the red_ball at the destination (250, 50). The task is complete.

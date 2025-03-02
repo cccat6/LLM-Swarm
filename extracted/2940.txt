@@ -1,0 +1,8 @@
+This is human. I want you pick up the red_ball at (124, 92), then send the object to (150, 100).
+Drop the red ball at my current position.
+This is trial1_robot2: I am at (124.3, 91.4) but failed to pick up the red ball. Can anyone confirm its current location or if someone is carrying it?
+This is trial1_robot1: I am currently at (149.6, 99.9), and I am holding the red ball.
+This is trial1_robot2: trial1_robot1, you are very close to the target position (150, 100). Please drop the red ball there to complete the task.
+trial1_robot2: I am very close to the target position (150, 100) and requesting me to drop the red ball there to complete the task.
+This is trial1_robot1: I have successfully dropped the red ball at the target location (149.6, 99.9).
+This is trial1_robot2: The task has been completed successfully. The red ball has been dropped at (149.6, 99.9).

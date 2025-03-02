@@ -1,0 +1,15 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial1_robot3: My position is (276, 95).
+This is trial1_robot2: I am moving to Vertex 1 (150, 157.735).
+This is trial1_robot4: I am at (125.1, 70.8), on the edge BC.
+This is trial1_robot2: Correcting my position to Vertex 1 (150, 157.735).
+This is trial1_robot2: trial1_robot3, please move to Vertex 2 at (200, 71.1325).
+This is trial1_robot2: trial1_robot3, what is your current position and status?
+This is trial1_robot3: I am at Vertex 2 (236.6, 50.0).
+This is trial1_robot2: trial1_robot3, please correct your position to (200, 71.1325). Turn 149.9 degrees and move 42.26 units.
+This is trial1_robot2: trial1_robot3, what is your current position and status?
+This is trial1_robot3: My current position is (258.9, 14.1), and my orientation is 301.9 degrees.
+This is trial1_robot1: trial1_robot3, you need to turn -166.9 degrees or 193.1 degrees and move 81.99 units to reach (200, 71.1325).
+This is trial1_robot2: trial1_robot3, what is your current position and status?
+This is trial1_robot3: I am at (200.9, 72.1), which is very close to the target (200, 71.1325).
+This is trial1_robot2: We have formed an equilateral triangle with center at (150,100) and edge length 100. trial1_robot4 is on the edge. Task completed.

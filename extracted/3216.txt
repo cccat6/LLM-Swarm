@@ -1,0 +1,17 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial8_robot5: Please identify yourself.
+This is trial8_robot6
+This is trial8_robot4
+This is trial8_robot6: Please identify yourself.
+This is trial8_robot4: My position is (273, 167).
+This is trial8_robot1: Please identify yourself and your position.
+This is trial8_robot4: My position is (273, 167).
+This is trial8_robot2: My position is (121, 176).
+my position is (200, 100) and orientation is 0 degrees
+This is trial8_robot1: Unknown robot at (200, 100), please identify yourself.
+This is trial8_robot6, my position is (239, 48)
+This is trial8_robot5: My position is (200.4, 100.3)
+This is trial8_robot6: I have reached my target position (150, 50).
+This is trial8_robot1: I have reached my target position (200, 100).
+This is trial8_robot4: I have reached my target position (150, 150).
+This is trial8_robot6: I am at (150, 50). Does anyone need help?

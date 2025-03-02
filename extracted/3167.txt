@@ -1,0 +1,14 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial10_robot4: I will be on the edge BC at (150, 71.13). I will turn -95.88 degrees and then move 139.02 units.
+This is trial10_robot3: I will be at vertex A (207.74, 100). I will turn 153.65 degrees and then move 186.85 units.
+This is trial10_robot4: Where are trial10_robot1 and trial10_robot2 going?
+This is trial10_robot2: I am at vertex C (200, 42.26) and in idle mode.
+This is trial10_robot4: trial10_robot3, you are at the wrong place. Please move to vertex A (150, 157.74).
+This is trial10_robot1: I will go to vertex B (100, 42.26). I will turn 131.02 degrees and then move 153.55 units.
+This is trial10_robot3: I am correcting my position to vertex A (200, 128.87). I will turn 96.74 degrees and then move 29.78 units.
+This is trial10_robot3: I was wrong. I am correcting my position to vertex A (121.13, 150). I will turn 59.3 degrees and then move 81.51 units.
+This is trial10_robot2: trial10_robot3, the correct coordinates for vertex A are (150, 157.74). Please use `sense` after you move to confirm your position.
+This is trial10_robot3: I am correcting my position to vertex A (150, 157.74). I will turn -150.22 degrees and then move 29.75 units.
+This is trial10_robot4: trial10_robot3, please confirm your position after you have moved to vertex A (150, 157.74).
+This is trial10_robot4: trial10_robot3, are you at vertex A (150, 157.74) now? If not, what is your current position?
+This is trial10_robot3: Yes, I am at vertex A (150.0, 157.7).

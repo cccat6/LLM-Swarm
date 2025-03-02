@@ -1,0 +1,5 @@
+This is human. I want you face each other.
+my position and orientation
+This is trial9_robot2: My position is x: 226, y: 51, and my direction is 42 degrees.
+This is trial9_robot1: My position is x: 82, y: 144, and my direction is 327.7 degrees. I believe I am facing trial9_robot2.
+This is trial9_robot2: I have turned to face trial9_robot1. My current direction is 147.2 degrees.

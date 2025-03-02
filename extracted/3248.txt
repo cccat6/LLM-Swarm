@@ -1,0 +1,2 @@
+This is human. I want you pick up the red_ball at (129, 123), then send the object to (150, 100).
+This is trial10_robot2: I am at the corner (300, 161.2) facing 12.6 degrees. My task is to pick up the red_ball at (129, 123) and then deliver it to (150, 100). I cannot move to (129, 123) because it is out of my boundary. Can any other robot help me to pick up the red_ball and deliver to (150, 100)?

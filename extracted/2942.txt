@@ -1,0 +1,7 @@
+This is human. I want you pick up the red_ball at (104, 169), then send the object to (150, 100).
+This is trial2_robot2: The red_ball at (104, 169) is outside my boundary. Can any robot reach it and retrieve it?
+This is trial2_robot2: I am unable to reach (104, 169) due to boundary constraints. Are there any robots available to assist?
+This is trial2_robot2: I am unable to retrieve the red_ball at (104, 169) due to boundary constraints and no assistance from other robots. Please provide further instructions.
+This is trial2_robot1: I cannot reach the red_ball at (104, 169) because it is outside my boundary. Can any other robot assist?
+This is trial2_robot2: I also cannot reach the red_ball at (104, 169) due to boundary constraints. Let's report back to the human together.
+This is trial2_robot1: Both trial2_robot1 and trial2_robot2 are unable to retrieve the red_ball at (104, 169) due to boundary constraints. Please provide further instructions.

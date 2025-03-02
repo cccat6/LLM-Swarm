@@ -1,0 +1,2 @@
+This is human. I want you pick up the red_ball at (222, 152), then send the object to (150, 100).
+This is trial1_robot1: I am at (285.2, 195.2), facing 85.8 degrees. I need to go to (222, 152) to pick up the red ball, but I am trapped. Can anyone help?

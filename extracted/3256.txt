@@ -1,0 +1,5 @@
+This is human. I want you move the red_ball at (194, 86) to (100, 100) and blue_ball at (99, 122) to (200, 100).
+This is trial4_robot2: Is there any other robot in the playground?
+This is trial4_robot1: I am going to move the red ball at (194, 86) to (100, 100).
+This is trial4_robot2: trial4_robot1, have you finished moving the red ball?
+This is trial4_robot1: I am at (300, 70.2) with the red ball and need help to move it to (100, 100) since it is outside my boundary.

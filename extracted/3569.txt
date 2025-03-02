@@ -1,0 +1,3 @@
+This is trial7_robot3: My current position is (280, 100), and I am facing East. My boundary constraints are: front 80 units, back 80 units, left 80 units, right 0 units. I suggest trial7_robot1 or trial7_robot2 move closer to me for the handoff.
+This is trial7_robot3: My current position is (280, 100), and I am facing East. My boundary constraints are: front 80 units, back 80 units, left 80 units, right 0 units. I suggest trial7_robot1 or trial7_robot2 move closer to me for the handoff.
+This is trial7_robot1: I suggest we meet at (120, 100) for the handoff. I will move there now.

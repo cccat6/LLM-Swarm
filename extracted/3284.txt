@@ -1,0 +1,19 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial6_robot2: My position is (150, 100), red ball is at (50, 100), destination is (250, 50)
+This is trial6_robot1: I am at (120, 100) with the red_ball. I am blocked by a boundary. Can you come closer to me at (130, 100) so I can hand off the ball?
+This is trial6_robot1: I dropped the red_ball at (120, 100). trial6_robot2, can you pick it up and move to the destination (250, 50)?
+trial6_robot1 dropped the red_ball at (120, 100)
+This is trial6_robot2: trial6_robot1, are you sure you dropped the ball at (120, 100)? I am at (120, 100) but I cannot pick it up.
+This is trial6_robot1: I am at (110, 100) now. The ball should be at (120, 100). Can you confirm if you can pick it up, trial6_robot2?
+This is trial6_robot2: trial6_robot1, I cannot pick up the ball at (120, 100). Can you pick it up and move towards the destination (250, 50)?
+This is trial6_robot1: I am at (120, 150) carrying the ball. I am blocked by the boundary. trial6_robot2, can you go to the destination (250, 50)? I will move towards you as much as possible and drop the ball.
+This is trial6_robot1: I am at (120, 180) carrying the ball. I am blocked by the boundary. trial6_robot2, can you come to me and pick up the ball?
+This is trial6_robot3: I am at the destination (250, 50). Please come closer and drop the ball.
+This is trial6_robot2: trial6_robot1, have you dropped the ball? I am at your location, but I don't see the ball.
+This is trial6_robot2: I cannot find the ball. I am going to the destination (250, 50) to help trial6_robot3.
+This is trial6_robot3: I am blocked by the boundary and cannot reach (120, 180). trial6_robot2, can you pick up the ball at (120, 180) and bring it to the destination (250, 50)?
+ask other robots if they can pick it up
+This is trial6_robot2: I am at (129.9, 170) and cannot pick up the ball. Can anyone pick up the ball at (120, 180) and bring it to the destination (250, 50)?
+This is trial6_robot3: trial6_robot1, can you confirm the location of the ball? We cannot find it at (120, 180).
+This is trial6_robot1: I dropped the ball at (120.0, 123.6), not (120, 180). Please check that location.
+This is trial6_robot2: I dropped the ball at (220, 66.1). Can anyone pick it up and bring it to the destination (250, 50)?

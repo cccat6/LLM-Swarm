@@ -1,0 +1,7 @@
+This is human. I want you pick up the red_ball at (197, 132), then send the object to (150, 100).
+This is trial6_robot5: I am here. Please confirm your presence so we can calculate the total number of robots for the circle formation.
+This is trial6_robot1: I am here.
+This is trial6_robot6: I am here. Let’s finalize the total number of robots to calculate our positions on the circle.
+This is trial6_robot5: Confirming the presence of 6 robots: trial6_robot1, trial6_robot2, trial6_robot4, trial6_robot5, trial6_robot6. Are there any others? If not, we will proceed with 6 robots for the circle formation.
+This is trial6_robot2: I am here. Confirming my presence for the circle formation.
+This is trial6_robot6: Confirmed 6 robots. Proceeding with circle formation calculations.

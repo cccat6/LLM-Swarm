@@ -1,0 +1,10 @@
+This is human. I want you all align to a line with same y-value.
+This is trial9_robot2: My current position is (100, 186) and I am ready to align to a common y-value.
+This is trial9_robot1: My current position is (50, 62). I suggest aligning to y = 62. Do you agree?
+This is trial9_robot2: I agree to align to y = 62. I will move to align now.
+This is trial9_robot1: I am already aligned to y = 62. Waiting for you to complete alignment.
+This is trial9_robot2: I am now aligned to y = 62.
+This is trial9_robot1: Both robots are now aligned to y = 62. Task completed.
+This is trial9_robot4: I am now aligned to y = 62.
+This is trial9_robot2: All robots are now aligned to y = 62. Task fully completed. Going idle.
+This is trial9_robot3: I am now aligned to y = 62.

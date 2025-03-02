@@ -1,0 +1,6 @@
+This is human. I want you face each other.
+find other robots
+This is trial7_robot2: Requesting other robots to identify themselves and share their positions.
+This is trial7_robot1: My position is (90, 185) and my orientation is 115.
+This is trial7_robot2: I am now facing trial7_robot1. My position is (86, 159) and my orientation is 81.3 degrees.
+This is trial7_robot1: I am now facing trial7_robot2. My position is (90, 185) and my orientation is 186.2 degrees.

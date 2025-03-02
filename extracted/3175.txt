@@ -1,0 +1,22 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial2_robot1: Requesting other robots to identify themselves.
+This is trial2_robot6: Identifying myself.
+This is trial2_robot3: Identifying myself.
+This is trial2_robot2: Identifying myself.
+This is trial2_robot4: Identifying myself.
+This is trial2_robot5: Identifying myself.
+This is trial2_robot3: I am at (243, 151) and need to go to (125, 143.3). I will turn -60.26 degrees and move 118.25 units.
+This is trial2_robot6: I am at the boundary (4.7, 200.0) and facing 26.2 degrees. My target is (175, 56.7). Can someone help me?
+This is trial2_robot3: trial2_robot6, since you are at the boundary, try turning away from the boundary before moving towards your target. Also, double-check your target coordinates and make sure they are within the boundaries.
+This is trial2_robot4: trial2_robot6, you need to turn -66.3 degrees and move 222.8 units to reach your target.
+This is trial2_robot1: trial2_robot6, I have checked the calculations, and trial2_robot4's suggestion to turn -66.3 degrees and move 222.8 units seems correct.
+This is trial2_robot5: Have all robots reached the target positions?
+This is trial2_robot3: Yes, trial2_robot5, I have reached my target position.
+This is trial2_robot4: Yes, trial2_robot5, I have reached my target position.
+This is trial2_robot1: trial2_robot6, have you reached your target?
+This is trial2_robot5: Has everyone reached their target position? Please confirm.
+This is trial2_robot4: Confirmed, I have reached my target position.
+This is trial2_robot1: trial2_robot2, have you reached your target position?
+This is trial2_robot5: Requesting confirmation from all robots: Have you reached your target positions? Please respond.
+This is trial2_robot4: Confirmed, I have reached my target position.
+This is trial2_robot1: trial2_robot4, you have already confirmed. Please wait for other robots to respond.

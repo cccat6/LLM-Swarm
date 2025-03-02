@@ -1,0 +1,12 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial8_robot1: I am ready to collaborate on transporting the red_ball. Please respond if you are available.
+This is trial8_robot2: I am ready to collaborate. I am moving towards the red_ball at (50, 100) to pick it up. Let's coordinate the handoff to transport it to (250, 50).
+This is trial8_robot1: I have already picked up the red_ball. I am turning East to move toward the destination at (250, 50). Let's coordinate the handoff.
+This is trial8_robot3: I am moving to (250, 50) to coordinate the handoff of the red_ball. Please let me know when you are ready to pass it to me.
+This is trial8_robot3: I am now at (250, 50) and ready to receive the red_ball. Please let me know when you are nearby.
+This is trial8_robot3: I have been waiting at (250, 50) for the red_ball. What is your status, trial8_robot1? Can you confirm if you are still transporting the ball or if there are any issues?
+This is trial8_robot1: I am at (29.8, 20) and will turn to face the destination (250, 50). I will move 222.23 units to reach you. Please be ready to receive the red_ball.
+This is trial8_robot3: I am at (250, 50) and ready to receive the red_ball. Please let me know when you are nearby.
+This is trial8_robot1: I am at (36.2, 180) and will turn to face the destination (250, 50). I will move 250.22 units to reach you. Please be ready to receive the red_ball.
+This is trial8_robot3: I am at (250, 50) and ready to receive the red_ball. Please let me know when you are nearby.
+This is trial8_robot3: I am still at (250, 50) and ready to receive the red_ball. trial8_robot1, can you confirm your current status and estimated time of arrival?

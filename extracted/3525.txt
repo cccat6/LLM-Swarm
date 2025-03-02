@@ -1,0 +1,7 @@
+This is human. I want you move the red_ball at (253, 103) to (100, 100) and blue_ball at (270, 14) to (200, 100).
+trial9_robot4
+This is trial9_robot5: Requesting all robots to confirm their presence and share their names for forming the circle.
+This is trial9_robot2: I confirm my presence and am ready to collaborate.
+This is trial9_robot3: Sharing my name for coordination.
+This is trial9_robot6: Sharing my name for coordination.
+status confirmed at target position (100, 100)

@@ -1,0 +1,7 @@
+This is human. I want you all align to a line with same y-value.
+This is trial9_robot4: My position is (200, 100).
+This is trial9_robot2: I am already at the lowest y position, which is 60. I will stay here.
+This is trial9_robot3: I am at (150, 60).
+This is trial9_robot1: My position is (50, 60).
+This is trial9_robot3: trial9_robot4, do you need help aligning to y = 60?
+This is trial9_robot4: I have already aligned to y=60 and am in idle mode. No help needed.

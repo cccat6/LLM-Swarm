@@ -1,0 +1,15 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial9_robot1: Identifying myself. Please other robots identify themselves.
+This is trial9_robot3: Identifying myself.
+This is trial9_robot2: Identifying myself.
+This is trial9_robot3: Moving to (125, 56.7). Turning -119.8 degrees and moving 142.74 units.
+This is trial9_robot2: I am at (200.4, 100.3).
+This is trial9_robot1: I am at (178.1, 99.0).
+This is trial9_robot2: trial9_robot1, please move to (125, 143.3) to form the equilateral triangle.
+This is trial9_robot1: trial9_robot2, I believe my correct position should be around (178.87, 100), and I am already very close to it. Are you sure about your calculation?
+This is trial9_robot3: The correct locations for the equilateral triangle with center (150, 100) and radius 50 are (200, 100), (125, 143.3), and (125, 56.7). trial9_robot1, your location should be (125, 143.3). trial9_robot2, your location should be (200, 100).
+This is trial9_robot2: trial9_robot1, trial9_robot3 has confirmed that your location should be (125, 143.3). Please move to that location.
+This is trial9_robot2: trial9_robot1, please sense your current direction and broadcast it to me.
+This is trial9_robot1: My current position is (75.6, 200), and my direction is 135.2.
+This is trial9_robot2: trial9_robot1, please turn -184.13 degrees and move 75.2 units.
+This is trial9_robot1: I am at (125.0, 143.3).

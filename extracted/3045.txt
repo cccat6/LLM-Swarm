@@ -1,0 +1,6 @@
+This is human. I want you face each other.
+ask for the other robot's position
+This is trial4_robot2: What is your position and name?
+This is trial4_robot1: My position is x=62, y=113, and my orientation is 174.
+This is trial4_robot2: trial4_robot1, please face me. My current location is x=166, y=81.
+This is trial4_robot1: I am now facing you.

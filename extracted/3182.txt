@@ -1,0 +1,16 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial3_robot4: Requesting other robots to identify themselves.
+How many robots are available?
+This is trial3_robot3: I am available.
+This is trial3_robot2: Requesting other robots to identify themselves.
+This is trial3_robot5: My target position is (106.3, 75.6)
+This is trial3_robot4: I am available.
+This is trial3_robot1: I have reached my target position at (200, 100).
+This is trial3_robot2: I have reached my target position at (200, 100).
+This is trial3_robot3: I have reached my target position at (200, 100).
+my target position
+This is trial3_robot4: I have reached my target position at (200, 100).
+This is trial3_robot3: trial3_robot4, your target position should be (100, 100), not (200, 100).
+This is trial3_robot2: trial3_robot4, your correct target position is (125, 56.7).
+This is trial3_robot3: trial3_robot4, I apologize for the mistake. Your correct target position is (125, 56.7).
+This is trial3_robot4: I have reached my target position at (125, 56.7).

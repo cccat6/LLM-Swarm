@@ -1,0 +1,10 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial3_robot2: Is anyone here to collaborate on transporting the red_ball?
+I am ready to collaborate with trial3_robot2.
+This is trial3_robot2: Great! Let’s collaborate on transporting the red_ball from (50, 100) to (250, 50). What is your name and current position?
+This is trial3_robot3: My current position is (250, 150). I am moving toward the red_ball at (50, 100).
+This is trial3_robot1: My current position is (50, 50). I am moving toward the red_ball at (50, 100).
+This is trial3_robot3: I have picked up the red_ball at (50, 100). Let’s coordinate the next steps.
+This is trial3_robot3: I failed to pick up the red_ball. Has either of you picked it up?
+This is trial3_robot1: I am at (50, 100) but have not picked up the red_ball. I will attempt to pick it up now.
+This is trial3_robot2: I am at (100, 100) and cannot move further West due to boundary constraints. The red_ball is outside my boundary. Please coordinate with me to complete the task.

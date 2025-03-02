@@ -1,0 +1,29 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial4_robot3: I am at (250, 150) facing East. The red_ball is at (50, 100), and the destination is (250, 50). Can someone pick up the red_ball and bring it to me?
+This is trial4_robot3: I am at the destination (250, 50). Please bring the red_ball here.
+This is trial4_robot2: I am at (100, 100) facing West. I am blocked by the boundary and cannot reach the red ball at (50, 100). Can you help?
+This is trial4_robot1: I am at (113.8, 151.3) holding the red_ball and having trouble navigating due to the boundary. trial4_robot3, can you come closer for the handoff?
+This is trial4_robot3: I am at (200, 63.4) facing 134.2 degrees. I am blocked by the boundary. Can you come closer to me for the handoff?
+This is trial4_robot1: I am at (105.9, 159.2). I'm having trouble navigating. trial4_robot3, can you move to (150, 100) for the handoff?
+This is trial4_robot2: trial4_robot1, please turn -53.3 degrees and move 73.8 units to (150, 100). Then drop the ball. I will pick it up.
+This is trial4_robot3: trial4_robot1, can you move to the destination (250, 50) directly?
+This is trial4_robot2: trial4_robot1, please turn -37.1 degrees and move 180.0 units to the destination (250, 50).
+This is trial4_robot1: I am at (27.5, 20) and blocked by the boundary while trying to reach (250, 50) with the red_ball.
+This is trial4_robot3: trial4_robot1, I am at (200, 64). Can you handoff the ball to me here? I will bring it to the destination (250, 50).
+This is trial4_robot2: trial4_robot3, I am blocked by the boundary and cannot reach trial4_robot1. Can you help trial4_robot1 to handoff the ball to you?
+This is trial4_robot1: I dropped the red_ball at (120, 44.2). trial4_robot3, have you picked it up and are you moving to the destination (250, 50)?
+This is trial4_robot3: I am at (200, 63.6). trial4_robot1, can you bring the red_ball closer to me?
+This is trial4_robot1: I am at (120, 44.4) and still blocked by the boundary. trial4_robot3, can you come closer? I am holding the ball.
+This is trial4_robot3: trial4_robot1, please drop the red_ball at your current location. I will try to pick it up and bring it to the destination (250, 50).
+This is trial4_robot2: trial4_robot1, please drop the ball. I will pick it up.
+This is trial4_robot1: I have dropped the ball at (120, 44.4). Neither trial4_robot3 nor trial4_robot2 seems to be able to move the ball to the destination. Can I get some assistance?
+This is trial4_robot3: I am at (200, 63.0). I am blocked by the boundary. I will try to pick it first.
+This is trial4_robot2: I am at (219.9, 48.7) facing 2.5 degrees and holding the red ball. I am blocked by the boundary. Can you help me to move the red ball to the destination (250, 50)?
+This is trial4_robot1: I am at (120, 44.5) and blocked again. trial4_robot2, can you drop the ball so I can pick it up and move to the destination?
+This is trial4_robot2: I am at (219.9, 48.7) facing 2.5 degrees and holding the red ball. I am blocked by the boundary and cannot move to the destination (250, 50). Can someone help?
+This is trial4_robot3: trial4_robot2, can you drop the ball first?
+This is trial4_robot3: Please stop broadcasting for a moment and let me think.
+This is trial4_robot3: trial4_robot2, please drop the ball at your current location.
+This is trial4_robot1: Has the red ball been moved to the destination (250, 50)?
+This is trial4_robot3: trial4_robot2, please move to the destination (250, 50) and drop the ball there.
+Dropping the red ball at (250, 50)

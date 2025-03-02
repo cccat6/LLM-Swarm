@@ -1,0 +1,8 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial8_robot2: I am going to (200, 100) to form an equilateral triangle centered at (150, 100).
+This is trial8_robot1: I am going to (121.13, 50) to form an equilateral triangle centered at (150, 100).
+This is trial8_robot2: I am at (200, 100), trial8_robot1 is at (121.13, 50). The third robot should be at (128.87, 150).
+This is trial8_robot1: I am at (125, 56.7). Waiting for the third robot.
+This is trial8_robot2: I will go to (128.87, 150) to complete the triangle.
+This is trial8_robot1: trial8_robot2, the correct position is (125, 143.3). Please move there.
+This is trial8_robot2: I have reached (125, 143.3). I am at (125.1, 143.4).

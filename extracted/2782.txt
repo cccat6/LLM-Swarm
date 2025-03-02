@@ -1,0 +1,17 @@
+This is human. I want you all align to a line with same y-value.
+This is trial4_robot4: My current position is (200, 33). What is the alignment y-value?
+This is trial4_robot3: Human, can you please specify the y-value for alignment?
+This is trial4_robot1: My current position is (50, 186). Waiting for the human to specify the y-value for alignment.
+This is trial4_robot4: I suggest aligning at y = 33. Please confirm or propose another value.
+This is trial4_robot3: Aligning at y = 33 is feasible for me. Do other robots agree?
+This is trial4_robot4: I agree to align at y = 33. Awaiting confirmation from trial4_robot1.
+This is trial4_robot2: I agree to align at y = 33. Moving to align.
+This is trial4_robot1: Calculating feasibility to align at y = 33. Will confirm or propose an alternative shortly.
+This is trial4_robot4: I am already aligned at y = 33. Awaiting trial4_robot1's confirmation or alternative proposal.
+This is trial4_robot2: I have successfully aligned at y = 33 at position (100.0, 33.0). Awaiting updates from others.
+This is trial4_robot2: I have successfully aligned at y = 33 at position (100.0, 33.0). Awaiting trial4_robot1's alignment or alternative proposal.
+This is trial4_robot4: I confirm I am aligned at y = 33. Awaiting trial4_robot1's update.
+This is trial4_robot3: I am moving to align at y = 33.
+This is trial4_robot1: I have successfully aligned at y = 33 at position (50.0, 33.0). Awaiting confirmation of alignment completion by all robots.
+This is trial4_robot3: All robots have successfully aligned at y = 33. Alignment task is complete.
+This is trial4_robot2: All robots have successfully aligned at y = 33. Task is complete. Entering idle mode.

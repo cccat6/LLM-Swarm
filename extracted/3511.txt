@@ -1,0 +1,5 @@
+This is human. I want you move the red_ball at (154, 20) to (100, 100) and blue_ball at (200, 112) to (200, 100).
+This is trial2_robot5: I have reached my position on the circle at (150, 50).
+This is trial2_robot3: I will move to my position on the circle at (150, 150).
+This is trial2_robot3: I will move to position (150, 150) on the circle.
+This is trial2_robot3: I have reached my position on the circle at (150, 150).

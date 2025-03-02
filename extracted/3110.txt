@@ -1,0 +1,11 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial4_robot3: Reporting for duty. Requesting other robots to identify themselves.
+This is trial4_robot2: Reporting for duty.
+This is trial4_robot1: My target location is (150, 71.13)
+This is trial4_robot2: My target location is (175, 114.4)
+This is trial4_robot3: My target location is (174.99, 85.57)
+This is trial4_robot1: trial4_robot3, your target location should be (125.02, 114.44)
+This is trial4_robot1: trial4_robot2 and trial4_robot3, do you need help with your calculations or movement?
+This is trial4_robot1: My current position is (150.0, 71.1), and my heading is 190.7 degrees. trial4_robot2 and trial4_robot3, please broadcast your current position and heading.
+This is trial4_robot2: My current position is (175.0, 114.4), and my heading is 1.0 degree.
+This is trial4_robot1: trial4_robot2, can you move to (175, 85.6) to form a line with me with center at (150, 100)?

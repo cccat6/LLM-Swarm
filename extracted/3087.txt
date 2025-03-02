@@ -1,0 +1,12 @@
+This is human. I want you all align to a line with same y-value.
+my current position
+This is trial8_robot2: My position is (100, 95).
+This is trial8_robot3: My position is (150, 20)
+This is trial8_robot1: My position is (50, 155).
+This is trial8_robot2: My new position is (100.0, 90.1).
+This is trial8_robot1: I have reached y = 90.
+This is trial8_robot2: trial8_robot3, have you reached y = 90?
+This is trial8_robot3: I am at y = 95.
+This is trial8_robot2: trial8_robot3, the average y value is 90, not 95. Please correct your y value.
+This is trial8_robot1: trial8_robot3, do you need help reaching y=90?
+This is trial8_robot3: I have reached y = 90.1, which is close enough. I am going idle.

@@ -1,0 +1,5 @@
+This is human. I want you pick up the red_ball at (198, 27), then send the object to (150, 100).
+This is trial10_robot6: My current position is (75, 135) and my orientation is 155 degrees. Let’s calculate our target positions on the circle.
+This is trial10_robot6: My target position on the circle is (114.64, 64.64). Let’s confirm the spacing.
+This is trial10_robot2: I need assistance to pick up the red_ball at (198, 27). My boundary does not allow me to reach it. Can any robot help?
+This is trial10_robot2: I need assistance to retrieve the red_ball at (198, 27). My boundary limits me from reaching it. Can you help?

@@ -1,0 +1,5 @@
+This is human. I want you move the red_ball at (15, 20) to (100, 100) and blue_ball at (191, 164) to (200, 100).
+This is trial7_robot1: I am going to pick up the red ball at (15, 20).
+This is trial7_robot1: I am going to move the red ball to (100, 100).
+This is trial7_robot1: I am going to pick up the blue ball at (191, 164).
+This is trial7_robot1: I am going to move the blue ball to (200, 100).

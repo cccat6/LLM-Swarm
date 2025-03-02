@@ -1,0 +1,10 @@
+This is human. I want you face each other.
+ask for the other robot's position
+This is trial2_robot2: What is your position?
+This is trial2_robot1: My position is x: 105, y: 52, direction: 306
+This is trial2_robot2: I have turned to face you.
+This is trial2_robot1: Can you please provide your current position again?
+trial2_robot1
+This is trial2_robot2: My current position is x: 163, y: 189, direction: 247.1
+This is trial2_robot2: trial2_robot1, have you turned to face me?
+This is trial2_robot1: Yes, I have turned to face you.

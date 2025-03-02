@@ -1,0 +1,7 @@
+This is human. I want you face each other.
+This is trial9_robot1: I am here. Please identify yourself.
+my current position and orientation
+This is trial9_robot1: My position is (125, 43), and I am facing 224 degrees. Please share your position and orientation so we can face each other.
+This is trial9_robot2: My position is (190, 28), and I am facing 164 degrees.
+This is trial9_robot2: I am now facing you.
+This is trial9_robot1: Both trial9_robot1 and trial9_robot2 are now facing each other as per the request.

@@ -1,0 +1,18 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial10_robot3 at (209, 148). Reporting for duty. What is your name and location?
+my current location
+trial10_robot3
+This is trial10_robot5 at (75, 170). Reporting for duty.
+This is trial10_robot2: My location is (183, 46).
+This is trial10_robot4: I am at (13, 115). My target position is (100, 100). I need to turn 9.78 degrees and move 88.28 units.
+This is trial10_robot4: I am blocked by the boundary. I need to turn around and move away from the boundary first.
+This is trial10_robot1: I am at (164, 68) with orientation 221. My target position is (169.65, 54.05). I need to turn 71.09 degrees and move 15.05 units.
+This is trial10_robot4: I am at (19.2, 116.7). My target position is (100, 100). I need to turn -11.71 degrees and move 82.51 units.
+This is trial10_robot1: I am at (169.7, 54.1) with orientation 292.1. I am close enough to my target position.
+This is trial10_robot4: I am at (101.5, 122.5). My target position is (100, 100). I need to turn 262.16 degrees and move 22.55 units.
+monitor broadcasts in case I need to assist other robots or receive new instructions
+This is trial10_robot4: I am at (100.1, 100.0) and my direction is 266.2. I am close enough to my target position. I have completed my task.
+This is trial10_robot6: Has trial10_robot2, trial10_robot3, and trial10_robot5 reached their target positions?
+This is trial10_robot3: Yes, I have reached my target position.
+This is trial10_robot5: Yes, I have reached my target position.
+This is trial10_robot2: Yes, I have reached my target position.

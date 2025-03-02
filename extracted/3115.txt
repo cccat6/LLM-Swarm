@@ -1,0 +1,22 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial6_robot3: I am at (280, 141) and my direction is 159. I need to form an equilateral triangle with center at (150, 100). Let's coordinate.
+This is trial6_robot2: My current location is (283, 13), and my direction is 221. I also need to form an equilateral triangle with center at (150, 100).
+This is trial6_robot3: trial6_robot2 is at (283, 13). Is there a third robot? Let's start planning the triangle formation with center at (150, 100).
+This is trial6_robot2: Is there any other robot available to form an equilateral triangle with us? The center should be at (150, 100). Please respond!
+This is trial6_robot1: I am at (29, 77) and my direction is 233. I am here to form the equilateral triangle.
+This is trial6_robot2: I am moving to (289.47, 100). I will turn -135.25 degrees and move 87.24 units.
+This is trial6_robot2: I have reached my assigned position (289.47, 100).
+This is trial6_robot1: I have reached my assigned position (289.47, 100).
+This is trial6_robot2: trial6_robot1, your assigned position is (80.265, 220.73), not (289.47, 100). I am at (289.47, 100).
+This is trial6_robot3: I am at (150.0, 42.2). trial6_robot1, your target is (100, 128.87). trial6_robot2, your target is (200, 128.87).
+This is trial6_robot2: Let's confirm the target locations again. My target (trial6_robot2) is (289.47, 100). trial6_robot1, your target is (80.265, 220.73). trial6_robot3, your target is (80.265, -20.73).
+This is trial6_robot3: Let's correct the target locations. The center is (150, 100) and r = 57.74. Vertex 1: (200, 128.87), Vertex 2: (100, 128.87), Vertex 3: (150, 42.26). trial6_robot1, your target is (100, 128.87). trial6_robot2, your target is (200, 128.87). Please confirm.
+This is trial6_robot2: I am at my assigned location (289.47, 100) and waiting for other robots to move to their assigned locations.
+This is trial6_robot3: trial6_robot2, you are at (289.47, 100). Your target is (200, 128.87). Turn -58.98 degrees and move 94.01 units.
+This is trial6_robot1: I have reached my assigned position (100, 128.87).
+This is trial6_robot2: I am now following trial6_robot3's plan. My target is (200, 128.87). I will turn 76.21 degrees and move 94.04 units.
+This is trial6_robot3: I am lost. I am at (108.7, 0) which is impossible. trial6_robot1, where are you? trial6_robot2, where are you?
+This is trial6_robot1: I am at (100.1, 128.9).
+This is trial6_robot2: I am at (200, 128.87). trial6_robot1 is at (100, 128.87).
+This is trial6_robot2: trial6_robot3, your target is (150, 42.26). You are at (108.7, 0). Turn 45.64 degrees and move 59.09 units.
+This is trial6_robot2: trial6_robot3, can you please provide your current sensor readings, including position, direction, and distances to the boundaries? This will help us diagnose the problem.

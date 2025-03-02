@@ -1,0 +1,5 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial4_robot1: Reporting my position. I am at (274, 10) and facing 10 degrees. Are there any other robots?
+This is trial4_robot3: Reporting my position. I am at (90, 108) and facing 127 degrees. Are there any other robots?
+This is trial4_robot6: My position is (48, 165), and my angle from the circle center is 147.2 degrees.
+This is trial4_robot1: I am at (274, 10) and facing 10 degrees. I have identified trial4_robot3 at (90, 108) and trial4_robot6 at (48, 165). Are there any other robots?

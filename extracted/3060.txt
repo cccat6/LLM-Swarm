@@ -1,0 +1,5 @@
+This is human. I want you all align to a line with same y-value.
+This is trial1_robot3: What is your current location?
+This is trial1_robot2: My current location is x: 100, y: 102
+This is trial1_robot1: My current location is x: 50, y: 170
+This is trial1_robot4: My current location is x: 200, y: 75. I suggest we align to y = 115.67

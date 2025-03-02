@@ -1,0 +1,20 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial9_robot4: I am participating in forming a circle. Please identify yourself.
+This is trial9_robot6: My position is (87, 34) and I am participating in forming a circle. Please identify yourself.
+I am participating
+This is trial9_robot5: I am participating in forming a circle.
+This is trial9_robot3: I am moving to (150, 50). I will turn -178.29 degrees and move 32.74 units.
+This is trial9_robot6: I have reached my position at (125.0, 56.7).
+This is trial9_robot2: I am at (180.8, 139.4).
+This is trial9_robot3: I have reached my position at (150, 50).
+This is trial9_robot3: I have reached my position at (150.0, 49.9).
+This is trial9_robot5: I have reached my position at (200.0, 100.0).
+I have reached my destination and broadcasted my arrival.
+I have reached my destination and broadcasted my arrival.
+I have reached my destination
+This is trial9_robot1: I have reached my position at (103.7, 118.8).
+I have reached my destination.
+This is trial9_robot4: I am stuck at (300, 6.7) and cannot reach my target (150, 50) because of the boundary. Can anyone help me?
+This is trial9_robot6: trial9_robot4 is stuck at (300, 6.7) and needs help to reach (150, 50). Can anyone help?
+This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50).
+This is trial9_robot6: trial9_robot4, trial9_robot2 said your target should be (200, 100), not (150, 50).

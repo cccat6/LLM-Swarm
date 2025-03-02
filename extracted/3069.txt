@@ -1,0 +1,12 @@
+This is human. I want you all align to a line with same y-value.
+Please share your locations.
+This is trial3_robot1: My location is x=50, y=34, direction=5. Please broadcast your location.
+location
+my location
+This is trial3_robot4: My location is x=200, y=77, direction=1. Please broadcast your location.
+This is trial3_robot2: My location is x=100, y=88, direction=73
+This is trial3_robot4: The median y-value is 77. trial3_robot1 and trial3_robot2, please move to y=77.
+This is trial3_robot1: I have reached y=77.
+This is trial3_robot2: I have reached y=77.
+This is trial3_robot1: trial3_robot4, are you still moving to y=77?
+This is trial3_robot4: I am already at y=77. I don't need to move.

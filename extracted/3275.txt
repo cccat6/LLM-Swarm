@@ -1,0 +1,15 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial3_robot1: I am at (50, 100) facing 90 degrees and holding the red_ball. I need to move it to (250, 50). Please broadcast your location if you can help.
+This is trial3_robot1: I am at (120, 79.6) facing 291 degrees and not holding the red_ball. I need to move it to (250, 50). I seem to be stuck. Please broadcast your location if you can help.
+I dropped the ball.
+The target is (250, 50).
+I am at (220, 84.8).
+I need to pick it up and move to the target.
+I should not drop the ball.
+my location
+This is trial3_robot3: I am at (222.1, 50.0) facing 210.6 degrees and not holding the red_ball. I am near the target (250, 50). trial3_robot1 seems to be stuck. Please help.
+This is trial3_robot1: I am at (120, 79.6) facing 201 degrees. I dropped the ball somewhere near me.
+This is trial3_robot1: I am at (111.9, 23.6) facing 246 degrees. I am trying to find the red_ball I dropped, but I haven't been able to locate it. Can someone help me find it?
+This is trial3_robot2: I am at (101.9, 26.5) and cannot find the red_ball. Can someone help?
+for help
+I will try to pick the ball.

@@ -1,0 +1,9 @@
+This is human. I want you move the red_ball at (289, 87) to (100, 100) and blue_ball at (43, 56) to (200, 100).
+Are there any other robots in the playground?
+This is trial6_robot1: Are there any other robots in the playground?
+This is trial6_robot2: I am here in the playground as well.
+This is trial6_robot1: Hello trial6_robot2, I propose that I handle the red ball at (289, 87) and move it to (100, 100), while you handle the blue ball at (43, 56) and move it to (200, 100). Please confirm or suggest an alternative plan.
+This is trial6_robot2: I agree with your plan. I will handle the blue ball at (43, 56) and move it to (200, 100).
+This is trial6_robot1: Trial6_robot2, have you completed moving the blue ball to (200, 100)? Please confirm your progress.
+trial6_robot1 has completed the task.
+This is trial6_robot2: I have successfully moved the blue ball to the target location (200, 100).

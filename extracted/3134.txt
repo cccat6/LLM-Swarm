@@ -1,0 +1,13 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial2_robot1: Forming an equilateral triangle with center (150, 100) and side length 100. Need two collaborators.
+This is trial2_robot3: My position is (155, 14) and my orientation is 255. I am ready to collaborate.
+This is trial2_robot4: I am going to Vertex 3 (63.4, 50). I will turn -33.1 degrees and move 74.29 units.
+This is trial2_robot2: My position is (272, 94) and my orientation is 64. I am ready to collaborate. trial2_robot1, please make a plan.
+This is trial2_robot4: I am at Vertex 3. I will move 10 units along the edge towards Vertex 1. I will turn -156.65 degrees and move 10 units.
+This is trial2_robot1: I will be on the edge between V1 and V2, 10 units from V1 at (199.08, 105). Turning -65.92 degrees and moving 39.69 units.
+This is trial2_robot4: trial2_robot3, your target position is approximately (236.6, 50).
+This is trial2_robot1: trial2_robot4, please stop. trial2_robot2, your target is (121.13, 150). trial2_robot3, your target is (78.87, 50).
+This is trial2_robot4: I think we have successfully formed an equilateral triangle. Can other robots confirm?
+This is trial2_robot1: trial2_robot2 and trial2_robot3, please confirm your positions.
+This is trial2_robot2: My position is (121.9, 152.5). I am at my target.
+This is trial2_robot3: I am at my target. I confirm that we have formed an equilateral triangle.

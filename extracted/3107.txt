@@ -1,0 +1,10 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+This is trial3_robot1: Reporting for duty. Please identify yourselves.
+This is trial3_robot2: Reporting for duty.
+This is trial3_robot3: Reporting for duty.
+This is trial3_robot2: My target is (135.57, 125). I will turn 9.3 degrees and move 65 units.
+This is trial3_robot2: I have reached my destination.
+This is trial3_robot1: I have reached my destination.
+This is trial3_robot1: trial3_robot3, have you reached your destination?
+This is trial3_robot2: trial3_robot3, have you reached your destination? Do you need help?
+This is trial3_robot3: I have reached my destination.

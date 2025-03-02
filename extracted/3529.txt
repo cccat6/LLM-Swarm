@@ -1,0 +1,7 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial1_robot5: Robot6, please confirm your position. Are you ready to form the circle?
+This is trial1_robot5: Human, trial1_robot6 has not responded to position confirmation requests. The circle formation may be incomplete. Please advise.
+This is trial1_robot3: My current position is (250, 150), and I am ready to collaborate on transporting the red ball.
+This is trial1_robot2: I am at (100, 100) and cannot reach the red_ball at (50, 100) due to boundary constraints. I need assistance to complete the task.
+This is trial1_robot3: trial1_robot2, please pick up the red ball at (50, 100) and move it closer to my position at (250, 150) or trial1_robot5's position. Let me know if you need further assistance.
+This is trial1_robot1: I am at (120, 117.5) and carrying the red_ball. I have reached my boundary and cannot move further toward (250, 150). I need assistance to transport the red_ball.

@@ -1,0 +1,11 @@
+This is human. I want you all align to a line with same y-value.
+This is trial8_robot1: My position is (50, 53), and I am ready to align to a specific y-value. Please coordinate.
+This is trial8_robot2: Let's align to y = 55. I will adjust my position accordingly.
+This is trial8_robot1: I am moving to align to y = 55 by adjusting my position.
+This is trial8_robot1: I am now aligned at y = 55 at position (50.0, 55.0). Awaiting confirmation from others.
+This is trial8_robot4: I am now aligned at y = 55 at position (200.0, 55.0). Awaiting confirmation from others.
+This is trial8_robot3: I am now aligned at y = 55 at position (146.1, 55.2).
+This is trial8_robot3: I am now aligned at y = 55 at position (146.1, 55.2). Awaiting confirmation from others.
+This is trial8_robot2: I am aligned at y = 55 at position (101.9, 55.0). Task is completed. Great work, everyone!
+This is trial8_robot2: I am now aligned at y = 55 at position (101.9, 55.0). Alignment task is complete on my side.
+This is trial8_robot1: Task completed. All robots are aligned at y = 55. Great work, everyone!

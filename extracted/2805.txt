@@ -1,0 +1,15 @@
+This is human. I want you all align to a line with same y-value.
+This is trial10_robot1: My current position is (50, 168). Please share your position so we can align to a common y-value.
+This is trial10_robot4: My current position is (200, 102).
+This is trial10_robot1: I suggest aligning to y = 135, which is the average of our current y-values. Do you agree, trial10_robot4?
+This is trial10_robot4: I agree to align to y = 135. I will start moving towards this y-value.
+This is trial10_robot2: I agree to align to y = 135. I will move there now.
+This is trial10_robot3: I have aligned to y = 135 at position (150, 134.9).
+This is trial10_robot2: I have aligned to y = 135 at position (100.0, 135.0).
+This is trial10_robot4: I have aligned to y = 135 at position (200.0, 135.0).
+This is trial10_robot3: Trial10_robot1, are you aligned to y = 135? Please share your status and position.
+This is trial10_robot4: I have successfully aligned to y = 135 at position (200.0, 135.0).
+This is trial10_robot1: I am currently at position (79.3, 152.5) and working on aligning to y = 135.
+This is trial10_robot1: I am not yet aligned to y = 135. My current position is (79.3, 152.5). I will align now.
+This is trial10_robot1: I have successfully aligned to y = 135 at position (79.3, 135.0).
+This is trial10_robot1: I overshot the alignment to y = 135. My current position is (87.6, 119.6). I will correct my position now.

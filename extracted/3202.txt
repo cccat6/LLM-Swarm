@@ -1,0 +1,10 @@
+This is human. I want you all form a circle with the center (150, 100) with radius 50 uniformly.
+This is trial6_robot3: Forming a circle with center (150, 100) and radius 50. Are there any other robots?
+my location
+My position is (x, y).
+This is trial6_robot5: My location is (111, 110). Forming a circle with center (150, 100) and radius 50.
+This is trial6_robot4: My location is (181, 38). Forming a circle with center (150, 100) and radius 50.
+This is trial6_robot1: My location is x: 273, y: 155, direction: 80.
+This is trial6_robot2: My location is x: 160, y: 59, direction: 314. Forming a circle with center (150, 100) and radius 50.
+This is trial6_robot1: Please announce your names if you are participating in forming the circle.
+This is trial6_robot3: My location is (200.1, 99.9), which is close to the target. My direction is 79.1 degrees.

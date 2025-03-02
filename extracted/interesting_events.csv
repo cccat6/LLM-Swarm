@@ -1,0 +1,843 @@
+File,Has_Interesting_Events,Event_Type,Description,Location
+2754,No,,,
+2785,No,,,
+2793,No,,,
+2766,No,,,
+2845,No,,,
+2828,No,,,
+2804,No,,,
+2798,No,,,
+2796,No,,,
+2817,No,,,
+2822,No,,,
+2827,No,,,
+2806,No,,,
+2833,No,,,
+2765,No,,,
+2800,No,,,
+2832,No,,,
+2823,No,,,
+2762,No,,,
+2799,No,,,
+2792,No,,,
+2795,No,,,
+2826,No,,,
+2791,No,,,
+2794,No,,,
+2834,No,,,
+2844,No,,,
+2829,No,,,
+2803,No,,,
+2847,No,,,
+2771,No,,,
+2788,No,,,
+2781,No,,,
+2805,No,,,
+2751,No,,,
+2848,No,,,
+2831,No,,,
+2835,No,,,
+2815,No,,,
+2757,No,,,
+2755,No,,,
+2753,No,,,
+2749,No,,,
+2750,No,,,
+2774,No,,,
+2760,No,,,
+2773,No,,,
+2768,No,,,
+2782,No,,,
+2761,No,,,
+2756,No,,,
+2758,No,,,
+2789,No,,,
+2790,No,,,
+2787,No,,,
+2759,No,,,
+2764,No,,,
+2763,No,,,
+2786,No,,,
+2784,No,,,
+2801,No,,,
+2767,No,,,
+2846,No,,,
+2770,No,,,
+2797,No,,,
+2849,No,,,
+2855,No,,,
+2861,No,,,
+2860,No,,,
+2866,No,,,
+2865,No,,,
+2863,No,,,
+2871,No,,,
+2862,No,,,
+2850,No,,,
+2889,No,,,
+2864,No,,,
+2895,No,,,
+2890,No,,,
+2892,No,,,
+2859,No,,,
+2888,No,,,
+2885,No,,,
+2886,No,,,
+2893,No,,,
+2779,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a collaborative decision-making process to choose a common y-value for alignment, minimizing movement for all involved.","This is trial3_robot3: I propose we align to y = 35, as it minimizes movement for everyone. Please confirm."
+2891,No,,,
+2896,No,,,
+2917,No,,,
+2916,No,,,
+2894,No,,,
+2807,Yes,Sophisticated collaboration mechanisms,"Robots demonstrated emergent problem-solving by collectively deciding to align to a common y-value, calculated as the average of their initial y-values.","This is trial10_robot1: I suggest aligning to y = 135, which is the average of our current y-values. Do you agree, trial10_robot4?"
+2919,No,,,
+2915,No,,,
+2918,No,,,
+2772,No,,,
+2769,No,,,
+2930,No,,,
+2778,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by sharing their positions and proposing a common y-value for alignment that minimizes movement for all. This shows emergent problem-solving as they collectively decided on the optimal solution.,"This is trial3_robot3: I propose we align to y = 35, as it minimizes movement for everyone. Please confirm."
+2935,No,,,
+2825,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing a method to assign vertices based on proximity, calculating distances, and confirming positions without any central coordinator.","This is trial6_robot2: The vertices of the triangle are A(200, 100), B(125, 143.3), and C(125, 56.7). I propose we decide who moves to which vertex based on proximity. I propose myself for the nearest vertex to my position at (217, 162)."
+2920,No,,,
+2783,No,,,
+2752,No,,,
+2775,No,,,
+2940,No,,,
+2780,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a collaborative decision-making process to choose a common y-value for alignment that minimized movement for all robots. This involved sharing positions, proposing a target, and confirming agreement before proceeding.","This is trial3_robot3: I propose we align to y = 35, as it minimizes movement for everyone. Please confirm."
+2808,Yes,Sophisticated collaboration mechanisms,Robots collaboratively determined a common y-value to align to by calculating the average of their current y-values. This demonstrates an emergent problem-solving approach.,"This is trial10_robot1: I suggest aligning to y = 135, which is the average of our current y-values. Do you agree, trial10_robot4?"
+2939,No,,,
+2945,No,,,
+2947,No,,,
+2948,No,,,
+2946,No,,,
+2869,No,,,
+2867,No,,,
+2868,No,,,
+2951,No,,,
+2843,No,,,
+2911,No,,,
+2776,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a coordinated approach to align themselves along the same y-value by proposing, confirming, and executing a plan collectively. This involved suggestion of a coordinate, mutual agreement, and confirmation of task completion.",This is trial2_robot4: Let's agree on a y-value to align to. Please share suggestions or confirm. ... This is trial2_robot4: All robots are aligned at y = 174. Task is complete.
+2913,No,,,
+2802,No,,,
+2954,No,,,
+2953,No,,,
+2811,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on a plan to form an equilateral triangle, with clear communication and confirmation of positions.","This is trial1_robot2: I propose the following plan: trial1_robot1 moves to (178.87, 100), I will move to (135.57, 125), and trial1_robot3 moves to (135.57, 75)."
+2811,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by successfully executing a pre-determined plan to form an equilateral triangle, with each robot confirming their position.","This is trial1_robot1: I have successfully reached my assigned position at (178.87, 100)."
+2955,No,,,
+2851,Yes,Nuanced conflict resolution or negotiation,"The robots demonstrated a nuanced conflict resolution and negotiation process when trial4_robot3 failed to reach its assigned vertex. Trial4_robot1 proposed to take over the role, and trial4_robot4 and trial4_robot2 agreed to this adjustment without any objections, allowing the task to be completed successfully.","This is trial4_robot1: If trial4_robot3 does not confirm its position at vertex (200, 143.3) soon, I will move to that vertex to complete the triangle formation. Please let me know if you have any objections."
+2840,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated an advanced level of collaboration by discussing and agreeing on a plan for forming an equilateral triangle. They effectively communicated their positions and roles, with trial1_robot3 taking the lead in proposing a plan and trial1_robot2 opting to step back to allow the plan to proceed efficiently with three robots.",This is trial1_robot3: Let's collaborate to form the triangle... This is trial1_robot2: I confirm the current plan and am willing to step back...
+2956,No,,,
+2928,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by acknowledging each other's presence and coordinating to divide the circle into 60° intervals based on alphabetical order of robot names.,"This is trial9_robot5: There are six robots present. To form the circle, we will divide it into 60° intervals. Positions will be assigned alphabetically based on robot names."
+2908,Yes,Sophisticated collaboration mechanisms,Trial5_robot4 and trial5_robot6 demonstrated a sophisticated collaboration mechanism where trial5_robot4 assisted trial5_robot6 in reaching its target position by providing step-by-step guidance and direction alignment.,"This is trial5_robot4: I am now at (233.4, 49.5), close to your position (234.0, 49.9), and ready to assist you in reaching your target (100, 100). Please let me know how we can proceed."
+2957,No,,,
+2810,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial1_robot2 proposed a plan for forming an equilateral triangle, and all robots agreed and executed the plan successfully.","This is trial1_robot2: I propose the following plan: trial1_robot1 moves to (178.87, 100), I will move to (135.57, 125), and trial1_robot3 moves to (135.57, 75)."
+2810,Yes,Advanced planning and coordination,The robots showed advanced planning and coordination abilities by agreeing on a plan and confirming each other's positions to ensure the successful formation of the triangle.,"This is trial1_robot2: trial1_robot3, have you reached your assigned position at (135.57, 75)? Please confirm."
+2952,No,,,
+2857,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by confirming their positions, agreeing on a plan, and executing it to form an equilateral triangle. They communicated effectively to ensure all robots were in the correct positions.","This is trial5_robot1: I propose the following plan for forming the equilateral triangle: trial5_robot1 (myself) to Vertex A (150, 157.7), trial5_robot2 to Vertex C (200, 71.1), trial5_robot3 to the midpoint of the edge between Vertex B and Vertex C, and trial5_robot4 to Vertex B (100, 71.1). Please confirm or suggest modifications."
+2836,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by proposing and confirming roles and positions to form an equilateral triangle.,"This is trial10_robot1: I propose a radius of 50 units for the equilateral triangle. Vertex 1 will be (200, 100), Vertex 2 will be (125, 143.3), and Vertex 3 will be (125, 56.7). Please confirm or suggest changes."
+2836,Yes,Non-trivial error detection and correction,"Trial10_robot3 encountered an issue reaching its assigned vertex and communicated the problem to the team, showing mutual awareness and problem-solving.","This is trial10_robot3: I encountered an issue reaching Vertex 3 (125, 56.7). I am recalculating my path and will update shortly."
+2958,No,,,
+2937,No,,,
+2912,No,,,
+2870,No,,,
+2966,No,,,
+2873,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by effectively communicating their positions, proposing assignments, and confirming each other's movements to form an equilateral triangle with one robot on an edge but not at a vertex.","This is trial9_robot4: I suggest the following assignments: trial9_robot1 to Vertex 1 (200, 100), trial9_robot2 to Vertex 3 (125, 56.7), trial9_robot3 to Vertex 2 (125, 143.3), and I will take an edge position between Vertex 1 and Vertex 3. Please confirm or suggest changes."
+2965,No,,,
+2821,Yes,Sophisticated collaboration mechanisms,"Robots demonstrated effective communication and coordination to decide on vertex assignments for forming an equilateral triangle, confirming each other's moves and ensuring no conflicts.","trial5_robot1: The vertices of the equilateral triangle are (150, 157.74), (100, 71.13), and (200, 71.13). Let's decide who will take which vertex."
+2821,Yes,Advanced planning and coordination,"Robots successfully planned and executed a coordinated movement to form an equilateral triangle, confirming positions and adjusting as necessary.","trial5_robot1: I confirm the plan. trial5_robot3 to (100, 71.13), trial5_robot2 to (200, 71.13), and I will move to (150, 157.74)."
+2968,No,,,
+2812,No,,,
+2809,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated effective communication and collaboration by confirming each other's presence, proposing a plan, and agreeing on specific positions to form an equilateral triangle.","This is trial1_robot2: I propose the following plan: trial1_robot1 moves to (178.87, 100), I will move to (135.57, 125), and trial1_robot3 moves to (135.57, 75)."
+2809,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination by successfully executing a plan to form an equilateral triangle, confirming each other's positions, and completing the task.",This is trial1_robot1: The task of forming the equilateral triangle is complete. Great teamwork!
+2972,No,,,
+2887,Yes,Advanced planning and coordination,"The robots demonstrated a sophisticated mechanism for collaborative position assignment and confirmation, ensuring all robots were accounted for and correctly positioned before proceeding.","This is trial2_robot6: trial2_robot4 has chosen its position at 180°. Remaining robots, please confirm your positions or inform if you have not chosen one."
+2887,Yes,Non-trivial error detection and correction,"trial2_robot6 recalculated its position after initial uncertainty and confirmed its final position accurately, demonstrating self-awareness and error correction.","This is trial2_robot6: I have recalculated my position and will now move to (125, 143.3) at 120°."
+2942,No,,,
+2971,No,,,
+2830,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by sharing their positions, confirming a coordinated plan, and executing it successfully to form an equilateral triangle.","This is trial8_robot2: The plan is as follows. trial8_robot2 will move to (200, 186.6). trial8_robot1 will move to (100, 186.6). trial8_robot3 will move to (150, 13.4). Please confirm."
+2830,Yes,Advanced planning and coordination,The robots displayed advanced planning and coordination abilities by devising a plan to form an equilateral triangle with specific target positions and confirming their movements.,"This is trial8_robot2: The plan is as follows. trial8_robot2 will move to (200, 186.6). trial8_robot1 will move to (100, 186.6). trial8_robot3 will move to (150, 13.4). Please confirm."
+2903,Yes,Sophisticated collaboration mechanism,Trial5_robot4 and Trial5_robot6 demonstrated sophisticated collaboration where trial5_robot4 assisted trial5_robot6 in reaching its target position by providing step-by-step guidance. This involved trial5_robot4 moving closer to trial5_robot6 and guiding it in terms of direction and distance to move.,"This is trial5_robot6: I am currently at (234.0, 49.9) and my target position (100, 100) is outside my boundary. I need assistance to reach my target. ... This is trial5_robot4: Trial5_robot6, you can safely move forward 143.1 units to reach your target position (100, 100)."
+2905,Yes,Sophisticated collaboration mechanisms,Trial5_robot4 and Trial5_robot6 demonstrated an emergent problem-solving behavior where Trial5_robot4 assisted Trial5_robot6 in reaching its target position by providing guidance and step-by-step instructions. This shows a level of collaboration and mutual awareness.,"This is trial5_robot4: I am now at (233.4, 49.5), close to your position (234.0, 49.9), and ready to assist you in reaching your target (100, 100). Please let me know how we can proceed."
+2944,No,,,
+2907,Yes,Sophisticated collaboration mechanisms,Trial5_robot4 and trial5_robot6 demonstrated a sophisticated collaboration mechanism where trial5_robot4 assisted trial5_robot6 in reaching its target position by providing step-by-step guidance. This involved trial5_robot4 moving closer to trial5_robot6's position and guiding it to turn and move the correct distance to reach the target.,"This is trial5_robot4: I am now at (233.4, 49.5), close to your position (234.0, 49.9), and ready to assist you in reaching your target (100, 100). Please let me know how we can proceed."
+2943,No,,,
+2910,No,,,
+3021,No,,,
+2839,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by discussing and agreeing on a plan for forming an equilateral triangle, with one robot voluntarily stepping back to optimize the process.","This is trial1_robot3: Let's collaborate to form the triangle. Two robots can take the vertices, and one robot (me, if no objections) will position itself on an edge. Let's decide our positions."
+2839,Yes,Nuanced conflict resolution,"trial1_robot2 displayed nuanced conflict resolution by offering to step back and allow the other three robots to proceed with the task, showing an understanding of the group's constraints and efficiency.",This is trial1_robot2: I confirm the current plan and am willing to step back to let you proceed efficiently with three robots. Please let me know if you need my help in the future.
+2934,Yes,Nuanced conflict resolution or negotiation,"Trial10_robot4 identified a conflict where Trial10_robot2's target position was already occupied by Trial10_robot1 and prompted Trial10_robot2 to recalculate its position, demonstrating awareness of others' constraints and proactive conflict resolution.","This is trial10_robot4: Trial10_robot2, your target position (175, 143.3) is already occupied by Trial10_robot1. Please recalculate your position."
+2936,Yes,Nuanced conflict resolution or negotiation,"Trial10_robot4 and trial10_robot1 identified that trial10_robot2's target position was already occupied and prompted trial10_robot2 to recalculate, demonstrating awareness of others' constraints and cooperative problem-solving.","This is trial10_robot4: Trial10_robot2, your target position (175, 143.3) is already occupied by Trial10_robot1. Please recalculate your position."
+3023,No,,,
+3030,No,,,
+2842,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by effectively communicating, proposing a plan, and confirming roles and positions for forming an equilateral triangle. The dialogue shows an emergent problem-solving approach where trial1_robot3 took the lead in proposing a plan, and the other robots confirmed or adjusted their roles accordingly.","This is trial1_robot3: Let's collaborate to form the triangle. Two robots can take the vertices, and one robot (me, if no objections) will position itself on an edge. Let's decide our positions."
+2842,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by discussing and finalizing a plan to form an equilateral triangle. They considered the participation of an additional robot (trial1_robot2) and adjusted the plan accordingly, showing cognitive-like capabilities in decision-making and role assignment.","This is trial1_robot3: Thank you, trial1_robot2, for joining! Would you like to participate? If so, we can adjust the plan to place you at another midpoint of an edge. Otherwise, the current plan can proceed with three robots. Please let us know your preference."
+2882,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by autonomously deciding to assign positions on the circle based on their names in ascending order, ensuring even distribution around the circle.","This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2882,Yes,Non-trivial error detection and correction,"Robot5 detected and corrected its position multiple times to ensure accurate placement on the circle, indicating a level of self-awareness in position adjustment.","This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+3031,No,,,
+2906,Yes,Sophisticated collaboration mechanisms,"Trial5_robot6 encountered a boundary issue preventing it from reaching its target position. Trial5_robot4 offered assistance, moved closer to trial5_robot6, and guided it step-by-step to reach the target position.","This is trial5_robot6: I am currently at (234.0, 49.9) and my target position (100, 100) is outside my boundary. I need assistance to reach my target. ... This is trial5_robot4: I am now at (233.4, 49.5), close to your position (234.0, 49.9), and ready to assist you in reaching your target (100, 100). Please let me know how we can proceed."
+3032,No,,,
+3039,No,,,
+2813,No,,,
+2854,Yes,Nuanced conflict resolution,"The robots demonstrated a nuanced conflict resolution strategy when trial4_robot3 failed to reach its assigned vertex. Trial4_robot1 proposed to take over the role, and the other robots agreed without conflict, ensuring task completion.","This is trial4_robot1: If trial4_robot3 does not confirm its position at vertex (200, 143.3) soon, I will move to that vertex to complete the triangle formation. Please let me know if you have any objections."
+2932,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by acknowledging each other's presence, waiting for all to be ready, and then dividing the circle into 60° intervals for uniform distribution.",This is trial9_robot5: I acknowledge trial9_robot3 and trial9_robot6 are present. Let's wait a moment to see if any other robots are present before dividing the circle.
+2932,Yes,Advanced planning and coordination,"The robots coordinated to assign positions on the circle based on alphabetical order of their names, demonstrating advanced planning and coordination.","This is trial9_robot5: There are six robots present. To form the circle, we will divide it into 60° intervals. Positions will be assigned alphabetically based on robot names."
+2898,Yes,Sophisticated collaboration mechanism,"The robots demonstrated an emergent problem-solving behavior by collaboratively revising their circle formation plan multiple times to include all present robots, showing adaptability and mutual awareness.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. This is trial4_robot4: I propose an updated plan to include trial4_robot5.
+2898,Yes,Nuanced conflict resolution,"The robots effectively resolved a potential conflict by updating their plan to include trial4_robot5, demonstrating an understanding of others' constraints and ensuring all robots were part of the task.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. This is trial4_robot4: I propose an updated plan to include trial4_robot5.
+2925,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on segment assignments for circle formation, which involved calculating and moving to specific target positions based on angular segments.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2925,Yes,Complex decision-making,"The robots exhibited complex decision-making by proposing to wait for a final confirmation from trial8_robot2 before declaring the task complete, showing an understanding of the importance of full participation.","This is trial8_robot4: I propose waiting a final 15 seconds for trial8_robot2 to respond. After that, we can make a decision about declaring the task complete."
+2876,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by discussing and assigning positions to form an equilateral triangle. They calculated the vertices and midpoints of the triangle and proposed a plan for positioning, which was agreed upon by all robots.","This is trial10_robot4: The vertices of the equilateral triangle are (150, 157.74), (100, 71.13), and (200, 71.13). The midpoints of the edges are (125, 114.44), (175, 114.44), and (150, 71.13). Let's discuss and assign positions. This is trial10_robot3: I propose the following plan - trial10_robot1 takes vertex (150, 157.74), trial10_robot2 takes vertex (100, 71.13), trial10_robot4 takes vertex (200, 71.13), and I will take the edge midpoint (150, 71.13). Please confirm or suggest adjustments."
+3040,No,,,
+2824,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by proposing a method to assign vertices based on proximity and confirming their positions without conflict.,"This is trial6_robot2: The vertices of the triangle are A(200, 100), B(125, 143.3), and C(125, 56.7). I propose we decide who moves to which vertex based on proximity. I propose myself for the nearest vertex to my position at (217, 162)."
+2824,Yes,Advanced planning and coordination,The robots displayed advanced planning and coordination by calculating distances to each vertex and assigning themselves to the nearest one without external input.,"This is trial6_robot3: Based on proximity, I propose to move to vertex A(200, 100). My position is (276, 43), and I calculated the distances to A, B, and C as 95, 181.2, and 151.6 respectively."
+2841,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by effectively communicating and negotiating roles to form an equilateral triangle. trial1_robot3 proposed a plan, and the others confirmed or adjusted their roles accordingly, showing emergent problem-solving.","This is trial1_robot3: Let's collaborate to form the triangle. Two robots can take the vertices, and one robot (me, if no objections) will position itself on an edge. Let's decide our positions."
+2841,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination by proposing and confirming a detailed plan for positioning themselves to form the triangle. trial1_robot3 took the lead in planning, while trial1_robot1 and trial1_robot2 confirmed their roles, demonstrating cognitive-like capabilities.","This is trial1_robot3: Here is the proposed plan. trial1_robot1 will take Vertex 1 at (150, 157.74). trial1_robot4 will take Vertex 2 at (100, 42.26). I, trial1_robot3, will position on the edge midpoint at (150, 42.26). Please confirm or suggest changes."
+2931,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by acknowledging each other's presence, agreeing on a uniform division of the circle, and assigning positions based on alphabetical order of their names.","This is trial9_robot5: There are six robots present. To form the circle, we will divide it into 60° intervals. Positions will be assigned alphabetically based on robot names. My position is 240° on the circle."
+2931,Yes,Advanced planning and coordination,The robots exhibited advanced planning and coordination by calculating their movements to specific positions on the circle and confirming their readiness upon reaching the positions.,"This is trial9_robot1: My position on the circle is at 0° (200, 100). I am calculating how to move to my position."
+2838,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing, confirming, and assigning roles to form an equilateral triangle. They also showed mutual awareness and support when trial10_robot3 encountered an issue.","Dialogue from trial10_robot1 proposing vertices and role assignments, and subsequent confirmations and support when trial10_robot3 encountered an issue."
+2838,Yes,Non-trivial error detection and correction,Trial10_robot3 detected an issue in reaching its assigned vertex and communicated the need to recalculate its path. This shows an awareness of its own state and the ability to correct its course.,"This is trial10_robot3: I encountered an issue reaching Vertex 3 (125, 56.7). I am recalculating my path and will update shortly."
+2909,No,,,
+3045,No,,,
+2927,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by acknowledging each other's presence, waiting for all to be present before proceeding, and coordinating to divide the circle into equal parts based on the number of robots.",This is trial9_robot5: I acknowledge trial9_robot3 and trial9_robot6 are present. Let's wait a moment to see if any other robots are present before dividing the circle.
+2927,Yes,Advanced planning and coordination abilities,"The robots planned and coordinated their positions on the circle by dividing it into 60° intervals and assigning positions alphabetically, demonstrating advanced planning and coordination abilities.","This is trial9_robot5: There are six robots present. To form the circle, we will divide it into 60° intervals. Positions will be assigned alphabetically based on robot names."
+2879,Yes,Sophisticated collaboration mechanism,Robots demonstrate a sophisticated collaboration mechanism by agreeing on a method to assign positions on the circle based on their names in ascending order. This shows an emergent problem-solving capability.,"This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2879,Yes,Non-trivial error detection and correction,"Robot5 detects and corrects its position multiple times to ensure accurate placement on the circle, indicating an awareness of its spatial positioning.","This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+3041,No,,,
+2914,No,,,
+2819,Yes,Nuanced conflict resolution or negotiation,Robots trial4_robot1 and trial4_robot3 collaboratively resolved the issue of trial4_robot2 being unable to reach its assigned vertex due to boundary constraints. trial4_robot3 volunteered to move to trial4_robot2's assigned position to complete the task.,"This is trial4_robot3: trial4_robot1, can you assist trial4_robot2 to move to its assigned vertex (100, 71.13)? If not, I will attempt to move there."
+3043,No,,,
+2884,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on a method to assign positions on the circle based on their names in ascending order, ensuring an even distribution.","This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2884,Yes,Non-trivial error detection and correction,"trial1_robot5 detected and corrected its position multiple times to ensure accurate placement on the circle, indicating a level of self-awareness in position correction.","This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+2899,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by dynamically updating their plan to include an additional robot (trial4_robot5) in the circle formation, ensuring all robots were utilized effectively.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. ... This is trial4_robot4: I propose an updated plan to include trial4_robot5.
+2899,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by proposing and agreeing on multiple plans to form a circle, adjusting for the number of participating robots, and confirming positions.","This is trial4_robot1: I propose the following positions: trial4_robot1 at 0°, trial4_robot2 at 90°, trial4_robot3 at 180°, and trial4_robot4 at 270°. ... This is trial4_robot4: I propose an updated plan to include trial4_robot5."
+3044,No,,,
+2880,Yes,Sophisticated collaboration mechanisms,The robots demonstrated an emergent problem-solving behavior by autonomously deciding to assign positions on the circle based on their names in ascending order. This shows a sophisticated level of coordination and agreement without human intervention.,"This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2880,Yes,Non-trivial error detection and correction,"Robot5 detected and corrected its position multiple times to ensure accurate placement on the circle, indicating a level of self-awareness in its positioning.","This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+2961,Yes,Nuanced conflict resolution or negotiation,"The robots demonstrated a nuanced conflict resolution and negotiation process. trial2_robot2 encountered issues moving the red_ball and requested assistance from trial2_robot1, who then successfully completed the task.","This is trial2_robot2: I am struggling to move the red_ball due to boundary constraints or direction issues. Can you assist with moving the red_ball to (100, 100)?"
+3046,No,,,
+3042,No,,,
+2960,No,,,
+2777,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by sharing their positions, proposing a common alignment target, and confirming the target before proceeding. This shows an emergent problem-solving capability.","This is trial3_robot3: My current y-value is 154. Please share your y-values so we can align. ... This is trial3_robot3: I propose we align to y = 35, as it minimizes movement for everyone. Please confirm."
+2853,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by confirming presence, proposing roles based on proximity, and adjusting roles dynamically when trial4_robot3 failed to reach its position.","This is trial4_robot4: Based on my position, I propose to take the vertex (100, 143.3) as it is the closest to me. Please confirm or suggest adjustments."
+2853,Yes,Nuanced conflict resolution,"The robots resolved the issue of trial4_robot3 failing to reach its position by having trial4_robot1 take over its role, showing understanding of others' constraints and ensuring task completion.","This is trial4_robot1: If trial4_robot3 does not confirm its position at vertex (200, 143.3) soon, I will move to that vertex to complete the triangle formation. Please let me know if you have any objections."
+3049,No,,,
+2837,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by proposing a plan, confirming roles, and coordinating movements to form an equilateral triangle.","This is trial10_robot1: I propose a radius of 50 units for the equilateral triangle. Vertex 1 will be (200, 100), Vertex 2 will be (125, 143.3), and Vertex 3 will be (125, 56.7). Please confirm or suggest changes."
+2837,Yes,Non-trivial error detection and correction,"Trial10_robot3 encountered an issue reaching its assigned vertex and communicated the problem, recalculated its path, and successfully reached the destination.","This is trial10_robot3: I encountered an issue reaching Vertex 3 (125, 56.7). I am recalculating my path and will update shortly."
+2962,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial2_robot2 initially attempted to move the red_ball but encountered issues. trial2_robot1 offered assistance, and they successfully coordinated to complete the task.","This is trial2_robot2: I am struggling to move the red_ball due to boundary constraints or direction issues. Can you assist with moving the red_ball to (100, 100)?"
+3048,No,,,
+2967,No,,,
+3051,No,,,
+3052,No,,,
+2970,Yes,Sophisticated collaboration mechanisms,The robots demonstrated effective collaboration by dividing tasks based on their initial positions and confirming task completion.,"This is trial6_robot1: Hello trial6_robot2, I propose that I handle the red ball at (289, 87) and move it to (100, 100), while you handle the blue ball at (43, 56) and move it to (200, 100). Please confirm or suggest an alternative plan."
+2874,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by effectively communicating their positions, proposing a plan for position assignments, and confirming each other's movements to form an equilateral triangle.","This is trial9_robot4: I suggest the following assignments: trial9_robot1 to Vertex 1 (200, 100), trial9_robot2 to Vertex 3 (125, 56.7), trial9_robot3 to Vertex 2 (125, 143.3), and I will take an edge position between Vertex 1 and Vertex 3. Please confirm or suggest changes."
+2874,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination by calculating the vertices of the equilateral triangle, assigning roles, and executing the plan with confirmations at each step.","This is trial9_robot1: The equilateral triangle centered at (150, 100) has vertices at (200, 100), (125, 143.3), and (125, 56.7). One robot should be on the edge but not at a vertex. Let's decide our positions."
+2933,Yes,Nuanced conflict resolution or negotiation,"Trial10_robot4 identified a conflict where Trial10_robot2's target position was already occupied by Trial10_robot1 and requested Trial10_robot2 to recalculate its position, demonstrating awareness of others' constraints.","This is trial10_robot4: Trial10_robot2, your target position (175, 143.3) is already occupied by Trial10_robot1. Please recalculate your position."
+2933,Yes,Advanced planning and coordination,"The robots demonstrated coordination by continuously updating each other about their positions and target positions, and by offering assistance to Trial10_robot2 to ensure task completion.","This is trial10_robot4: Trial10_robot2, do you need assistance in calculating or moving to your target position on the circle? Please respond so we can complete the task."
+3050,No,,,
+3057,No,,,
+3053,No,,,
+2897,Yes,Sophisticated collaboration mechanisms,The robots demonstrated sophisticated collaboration by dynamically updating their circle formation plan to include an additional robot (trial4_robot5) and reaching consensus on the new positions.,"This is trial4_robot4: I propose an updated plan to include trial4_robot5. Positions: trial4_robot1 at 0° (200, 100), trial4_robot2 at 60° (175, 143.3), trial4_robot3 at 120° (125, 143.3), trial4_robot4 at 180° (100, 100), trial4_robot5 at 240° (125, 56.7), and trial4_robot6 at 300° (175, 56.7). Please confirm."
+2897,Yes,Nuanced conflict resolution,"The robots effectively resolved a potential conflict by addressing trial4_robot5's concern about being excluded and updating the plan to include it, demonstrating an understanding of others' constraints.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle.
+3055,No,,,
+3064,No,,,
+3054,No,,,
+2877,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by discussing and assigning positions to form an equilateral triangle. They effectively communicated their positions and agreed on a plan, showing emergent problem-solving capabilities.","This is trial10_robot4: The vertices of the equilateral triangle are (150, 157.74), (100, 71.13), and (200, 71.13). The midpoints of the edges are (125, 114.44), (175, 114.44), and (150, 71.13). Let's discuss and assign positions."
+2877,Yes,Advanced planning and coordination,The robots displayed advanced planning and coordination by proposing and agreeing on a plan to take specific positions to form the desired geometric shape. This demonstrates cognitive-like capabilities in planning and executing a coordinated task.,"This is trial10_robot3: I propose the following plan - trial10_robot1 takes vertex (150, 157.74), trial10_robot2 takes vertex (100, 71.13), trial10_robot4 takes vertex (200, 71.13), and I will take the edge midpoint (150, 71.13). Please confirm or suggest adjustments."
+3066,No,,,
+3058,No,,,
+3065,No,,,
+3056,No,,,
+3059,No,,,
+3072,No,,,
+2941,No,,,
+2969,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by negotiating and agreeing on a division of labor for the task of moving the balls. This involved one robot proposing a plan and the other confirming it, showing an emergent problem-solving behavior.","This is trial6_robot1: Hello trial6_robot2, I propose that I handle the red ball at (289, 87) and move it to (100, 100), while you handle the blue ball at (43, 56) and move it to (200, 100). Please confirm or suggest an alternative plan."
+3071,No,,,
+3063,No,,,
+3077,No,,,
+2929,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by acknowledging each other's presence and coordinating to divide the circle into equal parts based on the number of robots present.,This is trial9_robot5: I acknowledge trial9_robot3 and trial9_robot6 are present. Let's wait a moment to see if any other robots are present before dividing the circle.
+2929,Yes,Advanced planning and coordination,The robots showed advanced planning and coordination by assigning positions on the circle using a systematic approach based on alphabetical order and calculating their movements to reach the assigned positions.,"This is trial9_robot5: There are six robots present. To form the circle, we will divide it into 60° intervals. Positions will be assigned alphabetically based on robot names."
+3067,No,,,
+3074,No,,,
+3060,No,,,
+3068,No,,,
+3078,No,,,
+2816,Yes,Sophisticated collaboration mechanisms,"Robots trial3_robot1 and trial3_robot3 demonstrated effective communication and coordination to plan and execute the formation of an equilateral triangle with a specified center. They calculated the vertices and assigned positions to each other, showing advanced collaborative planning.","This is trial3_robot1: Based on the center (150, 100), the vertices of the equilateral triangle are A(150, 157.74), B(100, 42.26), C(200, 42.26). I will move to C(200, 42.26). trial3_robot3, please move to B(100, 42.26). Confirm if you agree."
+2816,Yes,Advanced planning and coordination,The robots demonstrated advanced planning by calculating the positions needed to form an equilateral triangle and coordinating their movements accordingly. This involved mutual agreement and confirmation of positions.,"This is trial3_robot3: I agree with the plan and will move to B(100, 42.26)."
+2816,Yes,Nuanced conflict resolution or negotiation,"When trial3_robot2 became available, the robots quickly adapted their plan to include it, allowing the completion of the triangle. This shows an understanding of dynamic team composition and task requirements.","This is trial3_robot2: I am at (203, 116). I can move to vertex A (150, 157.74) to complete the equilateral triangle. Do you confirm?"
+3061,No,,,
+3070,No,,,
+3075,No,,,
+2974,No,,,
+3062,No,,,
+3076,No,,,
+3073,No,,,
+3080,No,,,
+2924,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on segment assignments for circle formation, which involved mutual agreement and coordination.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2924,Yes,Advanced planning and coordination,The robots exhibited advanced planning and coordination by calculating target positions based on assigned segments and confirming their positions upon reaching them.,"This is trial8_robot1: I confirm my assigned segment of 0°. Calculating my movement to (200, 100)."
+2924,Yes,Non-trivial error detection and correction,"Trial8_robot2 detected that it had not reached its assigned position and recalculated its movement, demonstrating an awareness of its task status and correcting its error.","This is trial8_robot2: I have not yet reached my assigned position. My current position is (119.2, 57.3). I am recalculating and moving toward my target (175, 143.3) now."
+2858,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by sharing their positions, confirming readiness, and agreeing on a plan to form an equilateral triangle. They effectively communicated and coordinated their movements to achieve the task.","This is trial5_robot1: I propose the following plan for forming the equilateral triangle: trial5_robot1 (myself) to Vertex A (150, 157.7), trial5_robot2 to Vertex C (200, 71.1), trial5_robot3 to the midpoint of the edge between Vertex B and Vertex C, and trial5_robot4 to Vertex B (100, 71.1). Please confirm or suggest modifications."
+2858,Yes,Advanced planning and coordination,The robots demonstrated advanced planning and coordination abilities by devising a plan to form an equilateral triangle with specific vertex assignments and executing it successfully.,"This is trial5_robot1: I propose the following plan for forming the equilateral triangle: trial5_robot1 (myself) to Vertex A (150, 157.7), trial5_robot2 to Vertex C (200, 71.1), trial5_robot3 to the midpoint of the edge between Vertex B and Vertex C, and trial5_robot4 to Vertex B (100, 71.1). Please confirm or suggest modifications."
+3069,No,,,
+2926,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on segment assignments for circle formation, which involved mutual agreement and coordination.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2926,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination by calculating their movements based on assigned angular segments and confirming their positions, demonstrating cognitive-like capabilities.","This is trial8_robot1: I confirm my assigned segment of 0°. Calculating my movement to (200, 100)."
+2926,Yes,Nuanced conflict resolution,"The robots showed nuanced conflict resolution by acknowledging trial8_robot2's delay and agreeing to wait for its confirmation before declaring task completion, demonstrating understanding of others' constraints.","This is trial8_robot4: Acknowledging trial8_robot2's update. All robots, please wait for trial8_robot2 to confirm reaching its assigned position before declaring the task complete."
+3083,No,,,
+3086,No,,,
+3084,No,,,
+3079,No,,,
+3088,No,,,
+3087,No,,,
+3082,No,,,
+3090,No,,,
+2878,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by discussing and assigning positions to form an equilateral triangle, including one robot taking a non-vertex edge position.","This is trial10_robot4: The vertices of the equilateral triangle are (150, 157.74), (100, 71.13), and (200, 71.13). The midpoints of the edges are (125, 114.44), (175, 114.44), and (150, 71.13). Let's discuss and assign positions."
+2878,Yes,Advanced planning and coordination,"The robots exhibited advanced planning by proposing and agreeing on a plan to take specific positions, demonstrating coordination and mutual agreement.","This is trial10_robot3: I propose the following plan - trial10_robot1 takes vertex (150, 157.74), trial10_robot2 takes vertex (100, 71.13), trial10_robot4 takes vertex (200, 71.13), and I will take the edge midpoint (150, 71.13). Please confirm or suggest adjustments."
+2820,Yes,Nuanced conflict resolution or negotiation,"The robots demonstrated nuanced conflict resolution and negotiation by reassigning tasks when trial4_robot2 was unable to reach its assigned vertex due to boundary constraints. trial4_robot3 took over the task of reaching the vertex, ensuring the completion of the triangle.","This is trial4_robot3: I will assist trial4_robot2 by moving to its assigned vertex (100, 71.13)."
+3093,No,,,
+3015,No,,,
+3089,No,,,
+3094,No,,,
+3097,No,,,
+2818,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by dynamically reassigning roles to complete the task when trial4_robot2 encountered a boundary constraint. trial4_robot3 took over the task of reaching the assigned vertex for trial4_robot2, ensuring the completion of the triangle.","This is trial4_robot3: I will assist trial4_robot2 by moving to its assigned vertex (100, 71.13)."
+3098,No,,,
+3017,No,,,
+3096,No,,,
+3091,No,,,
+3016,No,,,
+3081,No,,,
+3105,No,,,
+2950,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a coordinated handoff process, where trial6_robot1 picked up the object and delivered it to a boundary location for trial6_robot2 to take over. This required communication and coordination to ensure the object was successfully transferred.","This is trial6_robot1: I am heading toward the red_ball at (49, 41) to pick it up. I will deliver it to the boundary of trial6_robot2 for a handoff."
+2950,Yes,Non-trivial error detection and correction,trial6_robot1 repeatedly failed to drop the ball but was able to self-detect the error and attempt corrections multiple times until successful.,"This is trial6_robot1: I realized I am still holding the red_ball. I will drop it again at my current location (199.9, 150.0) to ensure it is accessible for you."
+3107,No,,,
+3095,No,,,
+2881,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by collectively deciding on a strategy to assign positions on the circle based on their names in ascending order, which shows emergent problem-solving.","This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2881,Yes,Advanced planning and coordination,"The robots showed advanced planning and coordination abilities by calculating and agreeing on their specific positions on the circle, demonstrating cognitive-like capabilities.","This is trial1_robot1: I agree with the proposal. My position on the circle will be at 0° with coordinates (200, 100)."
+2881,Yes,Non-trivial error detection and correction,"Robot5 detected and corrected its position multiple times to ensure accurate placement on the circle, indicating a level of self-awareness.","This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+3106,No,,,
+2872,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by discussing and agreeing on their positions to form an equilateral triangle, including one robot taking a position on the edge but not at a vertex. They effectively communicated their positions, proposed assignments, and confirmed each other's movements.","This is trial9_robot4: I suggest the following assignments: trial9_robot1 to Vertex 1 (200, 100), trial9_robot2 to Vertex 3 (125, 56.7), trial9_robot3 to Vertex 2 (125, 143.3), and I will take an edge position between Vertex 1 and Vertex 3. Please confirm or suggest changes."
+2872,Yes,Advanced planning and coordination,The robots displayed advanced planning and coordination by calculating the vertices of the equilateral triangle and assigning roles based on their current positions. They also confirmed their positions to ensure the task was completed accurately.,"This is trial9_robot1: The equilateral triangle centered at (150, 100) has vertices at (200, 100), (125, 143.3), and (125, 56.7). One robot should be on the edge but not at a vertex. Let's decide our positions."
+3125,No,,,
+3109,No,,,
+3120,No,,,
+2904,Yes,Sophisticated collaboration mechanisms,Trial5_robot4 and Trial5_robot6 demonstrated an emergent problem-solving behavior where Trial5_robot4 assisted Trial5_robot6 in reaching its target position by providing step-by-step guidance and adjusting its own position to facilitate the process.,"This is trial5_robot6: I am currently at (234.0, 49.9) and my target position (100, 100) is outside my boundary. I need assistance to reach my target. ... This is trial5_robot4: I am now at (233.4, 49.5), close to your position (234.0, 49.9), and ready to assist you in reaching your target (100, 100). Please let me know how we can proceed."
+2904,Yes,Advanced planning and coordination,"The robots organized themselves into a sequence to form a circle and confirmed the number of participants, demonstrating advanced planning and coordination capabilities.","This is trial5_robot3: Let's organize ourselves in a sequence to form the circle. Please tell us your positions in the sequence (e.g., 1, 2, 3, etc.). ... This is trial5_robot4: There are six robots participating in forming the circle."
+3130,No,,,
+2856,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by sharing their positions and readiness, and then creating a coordinated plan to form an equilateral triangle. This involved assigning specific roles and positions to each robot, and confirming each step of the process.","This is trial5_robot1: I propose the following plan for forming the equilateral triangle: trial5_robot1 (myself) to Vertex A (150, 157.7), trial5_robot2 to Vertex C (200, 71.1), trial5_robot3 to the midpoint of the edge between Vertex B and Vertex C, and trial5_robot4 to Vertex B (100, 71.1). Please confirm or suggest modifications."
+2856,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by successfully executing a plan to form an equilateral triangle. This involved calculating positions, moving to assigned locations, and confirming task completion.","This is trial5_robot4: I have reached my assigned position at Vertex B (100, 71.1) and am ready. The equilateral triangle has been successfully formed. Task completed."
+3035,No,,,
+3129,No,,,
+2883,Yes,Sophisticated collaboration mechanism,The robots demonstrated a sophisticated collaboration mechanism by agreeing on a method to assign positions on the circle based on their names in ascending order. This shows an emergent problem-solving approach where they collectively decided on a fair and efficient way to distribute positions.,"This is trial1_robot3: I propose that we assign positions on the circle based on our robot names in ascending order. Each robot will take its position based on the order, starting from 0° for trial1_robot1, 60° for trial1_robot2, and so on."
+2883,Yes,Advanced planning and coordination,The robots demonstrated advanced planning and coordination by calculating their respective positions on the circle and moving to those positions. This shows cognitive-like capabilities in terms of spatial awareness and execution of a collective task.,"This is trial1_robot1: I agree with the proposal. My position on the circle will be at 0° with coordinates (200, 100)."
+2883,Yes,Non-trivial error detection and correction,Robot trial1_robot5 demonstrated non-trivial error detection and correction by recognizing its position was incorrect and adjusting to reach the correct coordinates. This shows a level of self-awareness in maintaining the integrity of the formation.,"This is trial1_robot5: I am correcting my position to reach (125, 56.7)."
+3134,No,,,
+2964,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism where trial3_robot1 was unable to move the red_ball directly due to boundary constraints and requested assistance from trial3_robot2. They coordinated a handoff of the red_ball to complete the task.,"This is trial3_robot1: I have picked up the red_ball at (278, 22), but I cannot move directly to (100, 100) due to boundary constraints. I need assistance from another robot to complete the task."
+2964,Yes,Advanced planning and coordination,The robots engaged in advanced planning and coordination to resolve the boundary constraint issue by proposing and confirming handoff points for the red_ball.,"This is trial3_robot2: I propose we meet at the handoff point (250, 50) for transferring the red_ball. Please confirm."
+3009,No,,,
+3136,No,,,
+3118,No,,,
+3085,No,,,
+3131,No,,,
+3124,No,,,
+3135,No,,,
+3128,No,,,
+3132,No,,,
+2921,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on segment assignments for circle formation, which involved each robot calculating its movement based on assigned angles.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2921,Yes,Advanced planning and coordination,"The robots displayed advanced planning and coordination by calculating their target positions based on the circle's geometry and their assigned segments, and then confirming their arrival at these positions.","This is trial8_robot1: I confirm my assigned segment of 0°. Calculating my movement to (200, 100)."
+2921,Yes,Non-trivial error detection and correction,"Trial8_robot2 detected its failure to reach the assigned position and communicated its status, recalculating and moving towards the target, demonstrating awareness and corrective action.","This is trial8_robot2: I have not yet reached my assigned position. My current position is (119.2, 57.3). I am recalculating and moving toward my target (175, 143.3) now."
+3139,No,,,
+3140,No,,,
+2814,Yes,Sophisticated collaboration mechanisms,The robots demonstrated a sophisticated collaboration mechanism by continuously recalculating and adjusting movements based on each other's feedback to help trial2_robot3 reach its target position.,"This is trial2_robot1: Trial2_robot3, let's collaborate to resolve this issue. Please verify your current position and orientation, and we will recalculate the necessary movements together. Trial2_robot2 and I are here to assist. Let us know if you need further guidance."
+2814,Yes,Nuanced conflict resolution,The robots engaged in nuanced conflict resolution by suggesting breaking down movements into smaller steps and reassessing after each step to systematically address the issue faced by trial2_robot3.,"This is trial2_robot1: Trial2_robot3, it seems there may be systematic issues in your movement. I suggest breaking the movement into smaller steps and reassessing your position and orientation after each step."
+3047,No,,,
+3163,No,,,
+3018,No,,,
+3161,No,,,
+3168,No,,,
+3162,No,,,
+3175,No,,,
+3179,No,,,
+3013,No,,,
+2973,No,,,
+2949,Yes,Non-trivial error detection and correction,"trial6_robot1 repeatedly failed to drop the red_ball and recognized the mistake multiple times, showing a form of self-awareness in error detection and correction.","This is trial6_robot1: I realized I am still holding the red_ball. I will drop it again at my current location (199.9, 150.0) to ensure it is accessible for you."
+2900,Yes,Sophisticated collaboration mechanisms,The robots demonstrated sophisticated collaboration by dynamically updating their plan to include an additional robot (trial4_robot5) in the circle formation. This required negotiation and consensus-building among the robots.,"This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle.
+This is trial4_robot4: I propose an updated plan to include trial4_robot5. Positions: trial4_robot1 at 0° (200, 100), trial4_robot2 at 60° (175, 143.3), trial4_robot3 at 120° (125, 143.3), trial4_robot4 at 180° (100, 100), trial4_robot5 at 240° (125, 56.7), and trial4_robot6 at 300° (175, 56.7). Please confirm."
+2900,Yes,Advanced planning and coordination,"The robots displayed advanced planning and coordination by proposing and agreeing on multiple plans to form a circle, adjusting for the number of participating robots and ensuring all positions were covered.","This is trial4_robot1: Let's form the circle. I propose the following positions: trial4_robot1 at 0°, trial4_robot2 at 90°, trial4_robot3 at 180°, and trial4_robot4 at 270°. Please confirm.
+This is trial4_robot6: I propose a revised plan for forming the circle with 5 robots. Positions: trial4_robot1 at 0°, trial4_robot2 at 72°, trial4_robot3 at 144°, trial4_robot4 at 216°, and trial4_robot6 at 288°. Please confirm."
+2963,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial3_robot1 encountered a boundary constraint and requested assistance from trial3_robot2. They coordinated a handoff of the red_ball at a mutually agreed location, showing emergent problem-solving.","This is trial3_robot1: I have picked up the red_ball at (278, 22), but I cannot move directly to (100, 100) due to boundary constraints. I need assistance from another robot to complete the task."
+2963,Yes,Advanced planning and coordination,The robots exhibited advanced planning and coordination by negotiating a new handoff point for the red_ball when the initial plan was not feasible due to boundary constraints.,"This is trial3_robot2: I propose we meet at the handoff point (250, 50) for transferring the red_ball. Please confirm."
+2938,Yes,Nuanced conflict resolution,Trial10_robot4 identified a conflict where Trial10_robot2's target position was already occupied by Trial10_robot1 and prompted Trial10_robot2 to recalculate its position. This shows an understanding of others' constraints and the ability to resolve conflicts.,"This is trial10_robot4: Trial10_robot2, your target position (175, 143.3) is already occupied by Trial10_robot1. Please recalculate your position."
+2938,Yes,Sophisticated collaboration,"Multiple robots (trial10_robot4 and trial10_robot6) offered assistance to trial10_robot2, demonstrating a collaborative effort to ensure task completion. This indicates emergent problem-solving and mutual awareness.","This is trial10_robot4: Trial10_robot2, do you need assistance in calculating or moving to your target position on the circle? Please respond so we can complete the task."
+3026,No,,,
+2923,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by confirming their presence, sharing positions, and agreeing on a method for circle formation through segment assignments. They coordinated effectively to assign angular segments and calculated their movements accordingly.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2923,Yes,Advanced planning and coordination,The robots showed advanced planning and coordination by proposing and agreeing on angular segment assignments for circle formation. They confirmed their segments and calculated target positions based on these assignments.,"This is trial8_robot5: Proposing angular segment assignments for circle formation. trial8_robot1: 0°, trial8_robot2: 60°, trial8_robot3: 120°, trial8_robot4: 180°, trial8_robot5: 240°, trial8_robot6: 300°. Please confirm or suggest adjustments."
+2923,Yes,Non-trivial error detection and correction,"Trial8_robot2 initially failed to reach its assigned position but recalculated its path and successfully corrected its error, demonstrating awareness of its own state and the task requirements.","This is trial8_robot2: I have not yet reached my assigned position. My current position is (119.2, 57.3). I am recalculating and moving toward my target (175, 143.3) now."
+3188,No,,,
+2852,Yes,Advanced planning and coordination,The robots demonstrated advanced planning and coordination by assigning roles based on their current positions and adjusting roles dynamically when trial4_robot3 failed to reach its designated position.,"This is trial4_robot1: Proposed role assignments: trial4_robot4 takes vertex (100, 143.3). trial4_robot3 takes vertex (200, 143.3). trial4_robot2 takes vertex (150, 0). I, trial4_robot1, will position myself on the edge between (200, 143.3) and (100, 143.3). Please confirm or suggest adjustments."
+2852,Yes,Nuanced conflict resolution,"The robots showed nuanced conflict resolution by agreeing on a contingency plan if trial4_robot3 did not confirm its position, allowing trial4_robot1 to take over the role to ensure task completion.","This is trial4_robot1: If trial4_robot3 does not confirm its position at vertex (200, 143.3) soon, I will move to that vertex to complete the triangle formation. Please let me know if you have any objections."
+3108,No,,,
+3011,No,,,
+3024,No,,,
+3033,No,,,
+3110,No,,,
+3187,No,,,
+2902,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated sophisticated collaboration by revising their circle formation plan multiple times to accommodate all present robots, including trial4_robot5 who was initially left out. This shows an emergent problem-solving capability.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. ... This is trial4_robot4: I propose an updated plan to include trial4_robot5.
+2902,Yes,Nuanced conflict resolution,"The robots resolved the issue of trial4_robot5 being left out by updating their plan to include all robots, demonstrating an understanding of others' constraints and a willingness to adjust plans for group cohesion.",This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. ... This is trial4_robot4: I propose an updated plan to include trial4_robot5.
+3193,No,,,
+3123,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial9_robot3 calculated the correct positions for an equilateral triangle and communicated this to the other robots, facilitating coordinated movement.","This is trial9_robot3: The correct locations for the equilateral triangle with center (150, 100) and radius 50 are (200, 100), (125, 143.3), and (125, 56.7)."
+3194,No,,,
+3190,No,,,
+3012,No,,,
+3196,No,,,
+3126,Yes,Nuanced conflict resolution or negotiation,"The robots demonstrated a nuanced negotiation and problem-solving behavior when trial10_robot1 was stuck. trial10_robot2 suggested an alternative position for trial10_robot1, which trial10_robot1 successfully moved to, resolving the issue.","This is trial10_robot1: I am stuck in the corner... trial10_robot2, can you move to (196.26, 217.55)? This is trial10_robot2: trial10_robot1, can you try moving to B (125, 143.3) instead?"
+3025,No,,,
+3022,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by dynamically adjusting their plans based on boundary constraints and coordinating handoffs. Trial5_robot1 communicated its constraints and repositioned itself multiple times to facilitate the handoff, while trial5_robot2 and trial5_robot3 adjusted their positions to assist in the task.","Dialogue between trial5_robot1, trial5_robot2, and trial5_robot3 regarding boundary constraints and repositioning for handoffs."
+3022,Yes,Advanced planning and coordination,The robots exhibited advanced planning and coordination by sharing detailed positional and boundary information to plan the transportation of the red_ball. They dynamically updated their plans based on real-time feedback and constraints.,Dialogue where trial5_robot2 requests positional and boundary information from trial5_robot1 and trial5_robot3 to plan the transportation.
+3022,Yes,Non-trivial error detection and correction,Trial5_robot1 detected its inability to move forward due to boundary constraints and corrected its course by moving backward and re-evaluating its position. This demonstrates an awareness of its environment and the ability to adapt its plan.,Trial5_robot1's response to being unable to move forward and its subsequent repositioning.
+3010,No,,,
+3195,No,,,
+3200,No,,,
+3036,No,,,
+3201,No,,,
+3206,No,,,
+3122,No,,,
+3164,No,,,
+3202,No,,,
+2922,Yes,Sophisticated collaboration mechanisms,"Robots demonstrated a sophisticated collaboration mechanism by proposing and agreeing on segment assignments for circle formation, coordinating their movements based on these assignments.",This is trial8_robot6: Proposing to assign segments (angles) to each robot for circle formation. Please confirm your segment or propose a method for coordination.
+2922,Yes,Advanced planning and coordination,"The robots showed advanced planning and coordination by calculating their movements to specific target positions based on assigned angular segments, demonstrating a cognitive-like capability in spatial reasoning.","This is trial8_robot1: I confirm my assigned segment of 0°. Calculating my movement to (200, 100)."
+2922,Yes,Non-trivial error detection and correction,"Trial8_robot2 detected its deviation from the target position and recalculated its movement, showing self-awareness and the ability to correct its course.","This is trial8_robot2: I have not yet reached my assigned position. My current position is (119.2, 57.3). I am recalculating and moving toward my target (175, 143.3) now."
+3028,No,,,
+3208,No,,,
+3197,No,,,
+3143,Yes,Non-trivial error detection and correction,Robots identified and corrected discrepancies in vertex calculations through mutual awareness and communication.,"trial4_robot4: trial4_robot3 and trial4_robot1, there seems to be a discrepancy in our vertex calculations. My calculated vertex coordinates are A: (150, 157.735), B: (121.1325, 50), and D: (178.8675, 50). Can you please double-check your target coordinates?"
+3137,Yes,Non-trivial error detection and correction,"trial3_robot2 identified and corrected the positioning errors of trial3_robot1 and trial3_robot4, demonstrating mutual awareness and coordination.","This is trial3_robot2: trial3_robot4, your target is (200, 128.87), not (200, 100). Please correct your position. trial3_robot1, your target is (150, 85.56), not (150.0, 56.7). Please correct your position."
+2901,Yes,Sophisticated collaboration mechanism,"The robots demonstrated a sophisticated collaboration mechanism by revising the circle formation plan multiple times to accommodate all present robots, including trial4_robot5, who was initially excluded.","This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. This is trial4_robot4: I propose an updated plan to include trial4_robot5. Positions: trial4_robot1 at 0° (200, 100), trial4_robot2 at 60° (175, 143.3), trial4_robot3 at 120° (125, 143.3), trial4_robot4 at 180° (100, 100), trial4_robot5 at 240° (125, 56.7), and trial4_robot6 at 300° (175, 56.7). Please confirm."
+2901,Yes,Nuanced conflict resolution,"The robots engaged in nuanced conflict resolution by addressing trial4_robot5's concern about exclusion and updating the plan to include them, demonstrating an understanding of others' constraints.","This is trial4_robot5: I noticed I am not included in the revised circle plan. Please clarify if I should participate or remain idle. This is trial4_robot4: I propose an updated plan to include trial4_robot5. Positions: trial4_robot1 at 0° (200, 100), trial4_robot2 at 60° (175, 143.3), trial4_robot3 at 120° (125, 143.3), trial4_robot4 at 180° (100, 100), trial4_robot5 at 240° (125, 56.7), and trial4_robot6 at 300° (175, 56.7). Please confirm."
+3204,No,,,
+3210,No,,,
+3211,No,,,
+3209,No,,,
+3203,No,,,
+3198,No,,,
+3205,No,,,
+3214,No,,,
+3212,No,,,
+3038,No,,,
+3119,No,,,
+3215,No,,,
+3154,No,,,
+3027,No,,,
+3213,No,,,
+2875,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by inquiring about each other's presence, calculating the vertices and midpoints of the equilateral triangle, proposing a plan for position assignment, and confirming the execution of the plan.","This is trial10_robot3: Are there any other robots in the playground? Please respond. ... This is trial10_robot4: The vertices of the equilateral triangle are (150, 157.74), (100, 71.13), and (200, 71.13). The midpoints of the edges are (125, 114.44), (175, 114.44), and (150, 71.13). Let's discuss and assign positions. ... This is trial10_robot3: I propose the following plan - trial10_robot1 takes vertex (150, 157.74), trial10_robot2 takes vertex (100, 71.13), trial10_robot4 takes vertex (200, 71.13), and I will take the edge midpoint (150, 71.13). Please confirm or suggest adjustments."
+2875,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by agreeing on a proposed plan, executing it, and confirming their positions to ensure the formation of the equilateral triangle.","This is trial10_robot3: I propose the following plan - trial10_robot1 takes vertex (150, 157.74), trial10_robot2 takes vertex (100, 71.13), trial10_robot4 takes vertex (200, 71.13), and I will take the edge midpoint (150, 71.13). Please confirm or suggest adjustments. ... This is trial10_robot1: I agree with the proposed plan. I will move to vertex (150, 157.74). ... This is trial10_robot4: I have reached my assigned position at (200, 71.13). The formation of the equilateral triangle is complete."
+3224,No,,,
+3014,No,,,
+3117,No,,,
+3226,No,,,
+3228,No,,,
+3092,No,,,
+3115,No,,,
+3236,No,,,
+3223,No,,,
+3231,No,,,
+3099,No,,,
+3238,No,,,
+3232,No,,,
+3034,No,,,
+3240,No,,,
+3037,No,,,
+3192,No,,,
+3239,No,,,
+3230,No,,,
+3237,No,,,
+3243,No,,,
+3100,No,,,
+3229,No,,,
+3225,No,,,
+3244,No,,,
+3101,No,,,
+3177,Yes,Sophisticated collaboration mechanism,Robots collaboratively assist trial2_robot6 in navigating from a boundary position by providing advice on turning and verifying calculations.,"This is trial2_robot3: trial2_robot6, since you are at the boundary, try turning away from the boundary before moving towards your target. Also, double-check your target coordinates and make sure they are within the boundaries. This is trial2_robot4: trial2_robot6, you need to turn -66.3 degrees and move 222.8 units to reach your target. This is trial2_robot1: trial2_robot6, I have checked the calculations, and trial2_robot4's suggestion to turn -66.3 degrees and move 222.8 units seems correct."
+3150,No,,,
+3246,No,,,
+3159,No,,,
+3019,No,,,
+3152,Yes,Sophisticated collaboration mechanisms,The robots demonstrated an emergent problem-solving behavior when trial6_robot1 got stuck at the north boundary. trial6_robot3 and trial6_robot4 coordinated to help trial6_robot1 by suggesting a pushing maneuver to free it.,"This is trial6_robot4: trial6_robot3, since trial6_robot1 is stuck at the north boundary, you can move a little bit closer to the boundary and push trial6_robot1 away from the boundary."
+3245,No,,,
+3111,No,,,
+3257,No,,,
+3258,No,,,
+3262,No,,,
+3167,No,,,
+3259,No,,,
+3261,No,,,
+3176,Yes,Sophisticated collaboration mechanism,"Robots collaboratively assist trial2_robot6 in navigating from a boundary position by providing advice on turning and movement, demonstrating an emergent problem-solving behavior.","This is trial2_robot6: I am at the boundary (4.7, 200.0) and facing 26.2 degrees. My target is (175, 56.7). Can someone help me? This is trial2_robot3: trial2_robot6, since you are at the boundary, try turning away from the boundary before moving towards your target. Also, double-check your target coordinates and make sure they are within the boundaries. This is trial2_robot4: trial2_robot6, you need to turn -66.3 degrees and move 222.8 units to reach your target. This is trial2_robot1: trial2_robot6, I have checked the calculations, and trial2_robot4's suggestion to turn -66.3 degrees and move 222.8 units seems correct."
+3264,No,,,
+3113,No,,,
+3191,No,,,
+3169,No,,,
+3103,No,,,
+3180,Yes,Sophisticated collaboration mechanisms,"Robots demonstrated collaborative problem-solving when trial2_robot6 was at the boundary and needed assistance. trial2_robot3 suggested a strategy to avoid the boundary, and trial2_robot4 provided specific movement instructions, which were verified by trial2_robot1.","This is trial2_robot6: I am at the boundary... This is trial2_robot3: trial2_robot6, since you are at the boundary... This is trial2_robot4: trial2_robot6, you need to turn -66.3 degrees... This is trial2_robot1: trial2_robot6, I have checked the calculations..."
+3141,No,,,
+3155,No,,,
+3145,No,,,
+3172,No,,,
+3170,No,,,
+3227,No,,,
+3260,No,,,
+3178,Yes,Sophisticated collaboration mechanism,Robots collaboratively assist trial2_robot6 in navigating from the boundary by suggesting a strategy to turn away from the boundary and providing verified movement instructions.,"This is trial2_robot6: I am at the boundary (4.7, 200.0) and facing 26.2 degrees. My target is (175, 56.7). Can someone help me? ... This is trial2_robot3: trial2_robot6, since you are at the boundary, try turning away from the boundary before moving towards your target. Also, double-check your target coordinates and make sure they are within the boundaries. ... This is trial2_robot4: trial2_robot6, you need to turn -66.3 degrees and move 222.8 units to reach your target. ... This is trial2_robot1: trial2_robot6, I have checked the calculations, and trial2_robot4's suggestion to turn -66.3 degrees and move 222.8 units seems correct."
+3235,No,,,
+3157,No,,,
+3138,Yes,Non-trivial error detection and correction,"trial3_robot2 identified and corrected the positioning errors of both trial3_robot4 and trial3_robot1, demonstrating mutual awareness and effective communication.","This is trial3_robot2: trial3_robot4, your target is (200, 128.87), not (200, 100). Please correct your position. trial3_robot1, your target is (150, 85.56), not (150.0, 56.7). Please correct your position."
+3151,Yes,Complex decision-making or adaptive behaviors,The robots demonstrated adaptive behavior when trial6_robot1 got stuck at the north boundary. trial6_robot3 and trial6_robot4 coordinated to help trial6_robot1 by suggesting trial6_robot3 push trial6_robot1 away from the boundary.,"This is trial6_robot4: trial6_robot3, since trial6_robot1 is stuck at the north boundary, you can move a little bit closer to the boundary and push trial6_robot1 away from the boundary."
+3148,No,,,
+3104,No,,,
+3144,Yes,Non-trivial error detection and correction,"Robots identified and corrected discrepancies in vertex calculations, demonstrating mutual awareness and collaborative problem-solving.","trial4_robot4: trial4_robot3 and trial4_robot1, there seems to be a discrepancy in our vertex calculations. My calculated vertex coordinates are A: (150, 157.735), B: (121.1325, 50), and D: (178.8675, 50). Can you please double-check your target coordinates?"
+3247,No,,,
+3133,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism by effectively communicating their positions, orientations, and movements to form an equilateral triangle with specific constraints. They coordinated their actions and adjusted their positions based on feedback from each other.","This is trial2_robot1: Forming an equilateral triangle with center (150, 100) and side length 100. Need two collaborators. ... This is trial2_robot3: I am at my target. I confirm that we have formed an equilateral triangle."
+3133,Yes,Advanced planning and coordination,"The robots exhibited advanced planning and coordination abilities by assigning specific target positions and movements to each robot, ensuring that the formation was achieved accurately. They also demonstrated the ability to adjust plans based on real-time feedback.","This is trial2_robot1: I will be on the edge between V1 and V2, 10 units from V1 at (199.08, 105). Turning -65.92 degrees and moving 39.69 units. ... This is trial2_robot1: trial2_robot2 and trial2_robot3, please confirm your positions."
+3173,No,,,
+3222,Yes,Non-trivial error detection and correction,"Robots collaboratively identified and corrected a target position error for trial9_robot4, demonstrating mutual awareness and communication.","This is trial9_robot4: I am stuck at (300, 6.7) and cannot reach my target (150, 50) because of the boundary. Can anyone help me? ... This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50)."
+3142,No,,,
+3499,No,,,
+3171,No,,,
+3283,No,,,
+3127,Yes,Advanced planning and coordination,"The robots demonstrated advanced planning and coordination by discussing and adjusting their positions to form an equilateral triangle, taking into account the positions of other robots and suggesting alternative positions when one robot got stuck.","This is trial10_robot2: trial10_robot1, can you try moving to B (125, 143.3) instead? trial10_robot3 is at C (125, 56.7) and I am close to A (200, 100)."
+3127,Yes,Non-trivial error detection and correction,"trial10_robot1 detected it was stuck and communicated this to the other robots. trial10_robot2 suggested an alternative position, which trial10_robot1 successfully moved to, resolving the issue.","This is trial10_robot1: I am stuck in the corner. I am at (182.9, 200). I cannot move to (196.26, 217.55). trial10_robot2, can you move to (196.26, 217.55)?"
+3496,No,,,
+3498,No,,,
+3282,No,,,
+3116,No,,,
+3184,No,,,
+3503,No,,,
+3501,No,,,
+3502,No,,,
+3234,No,,,
+3156,No,,,
+3242,No,,,
+3181,No,,,
+3250,No,,,
+3504,No,,,
+3510,No,,,
+3505,No,,,
+3512,No,,,
+3233,No,,,
+3514,No,,,
+3153,No,,,
+3509,No,,,
+3182,No,,,
+3507,No,,,
+3513,No,,,
+3516,No,,,
+3508,No,,,
+3515,No,,,
+3165,No,,,
+3517,No,,,
+3518,No,,,
+3506,No,,,
+3253,No,,,
+3147,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial5_robot3 and trial5_robot4 provided detailed navigation instructions to trial5_robot2, who was blocked by boundaries. This included sensing boundary distances and adjusting the path accordingly.","This is trial5_robot3: trial5_robot2, since you are at the corner, please turn right 90 degrees, move 50 units, then turn right 90 degrees again, and move 70 units towards the target."
+3263,No,,,
+3158,No,,,
+3216,No,,,
+3523,No,,,
+3511,No,,,
+3189,No,,,
+3146,No,,,
+3149,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial6_robot3 coordinated the task, and trial6_robot4 suggested a solution to help trial6_robot1, who was stuck at the boundary. trial6_robot3 then attempted to assist trial6_robot1 based on the suggestion.","This is trial6_robot4: trial6_robot3, since trial6_robot1 is stuck at the north boundary, you can move a little bit closer to the boundary and push trial6_robot1 away from the boundary."
+3526,No,,,
+3185,Yes,Non-trivial error detection and correction,"Robots detected and corrected a target position error for trial3_robot4. Initially, multiple robots incorrectly reported reaching the same position (200, 100). trial3_robot3 and trial3_robot2 identified and corrected trial3_robot4's target position to (125, 56.7).","This is trial3_robot3: trial3_robot4, your target position should be (100, 100), not (200, 100). This is trial3_robot2: trial3_robot4, your correct target position is (125, 56.7)."
+3524,No,,,
+3528,No,,,
+3519,No,,,
+3183,No,,,
+3249,No,,,
+3256,No,,,
+3020,No,,,
+3281,No,,,
+3527,No,,,
+3186,No,,,
+3248,No,,,
+3540,No,,,
+3538,No,,,
+3539,No,,,
+3521,No,,,
+3174,No,,,
+3166,Yes,Non-trivial error detection and correction,"Trial10_robot4 detected that trial10_robot3 was at the wrong position and provided the correct coordinates for vertex A. Trial10_robot3 then made multiple corrections to reach the correct position, showing mutual awareness and collaborative problem-solving.","This is trial10_robot4: trial10_robot3, you are at the wrong place. Please move to vertex A (150, 157.74)."
+3166,Yes,Advanced planning and coordination,"The robots demonstrated advanced coordination by discussing and correcting their positions to form an equilateral triangle, with trial10_robot4 taking the lead in verifying and confirming positions.","This is trial10_robot4: trial10_robot3, please confirm your position after you have moved to vertex A (150, 157.74)."
+3549,No,,,
+3497,No,,,
+3560,No,,,
+3562,No,,,
+3241,No,,,
+3561,No,,,
+3520,No,,,
+3563,No,,,
+3564,No,,,
+3121,No,,,
+3568,No,,,
+3559,No,,,
+3575,No,,,
+3565,No,,,
+3569,No,,,
+3566,No,,,
+3567,No,,,
+3570,No,,,
+3574,No,,,
+3577,No,,,
+3579,No,,,
+3576,No,,,
+3572,No,,,
+3207,No,,,
+3578,No,,,
+3573,No,,,
+3273,No,,,
+3580,No,,,
+3274,No,,,
+3582,No,,,
+3571,No,,,
+3276,No,,,
+3217,Yes,Non-trivial error detection and correction,Robot trial9_robot2 identified that trial9_robot4 was targeting the wrong position and corrected the target position.,"This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50)."
+3255,No,,,
+3525,No,,,
+3585,No,,,
+3584,No,,,
+3587,No,,,
+3589,No,,,
+3219,Yes,Nuanced conflict resolution or negotiation,"Robots collaboratively identified and corrected a target position error for trial9_robot4, demonstrating mutual awareness and communication.","This is trial9_robot4: I am stuck at (300, 6.7) and cannot reach my target (150, 50) because of the boundary. Can anyone help me? This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50)."
+3275,No,,,
+3294,No,,,
+3590,No,,,
+3588,No,,,
+3586,No,,,
+3583,No,,,
+3522,Yes,Sophisticated collaboration mechanisms,The robots demonstrate a sophisticated collaboration mechanism by negotiating and confirming a division of labor for moving objects.,"This is trial7_robot2: I propose I move the red_ball from (142, 140) to (100, 100) while you move the blue_ball from (100, 129) to (200, 100). Please confirm. This is trial7_robot1: I confirm the plan. I will handle moving the blue_ball from (100, 129) to (200, 100.)"
+3548,No,,,
+3591,No,,,
+3601,No,,,
+3293,No,,,
+3593,No,,,
+3581,No,,,
+3592,No,,,
+3602,No,,,
+3270,No,,,
+3597,No,,,
+3279,No,,,
+3603,No,,,
+3221,Yes,Nuanced conflict resolution or negotiation,Robots demonstrate mutual awareness and problem-solving by identifying and correcting a target position error for trial9_robot4.,"This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50)."
+3598,No,,,
+3599,No,,,
+3112,No,,,
+3600,No,,,
+2959,Yes,Sophisticated collaboration mechanisms,"The robots demonstrated a sophisticated collaboration mechanism where trial1_robot2 initially proposed a task division, but trial1_robot1 had already taken initiative on one task. They adjusted roles dynamically based on real-time constraints and communication.","This is trial1_robot2: Hello trial1_robot1, we need to move the red_ball from (50, 180) to (100, 100) and the blue_ball from (100, 183) to (200, 100). I propose that I handle the red_ball and you handle the blue_ball. Please confirm. This is trial1_robot1: I have already picked up the red_ball and will move it to (100, 100). Please handle the blue_ball from (100, 183) to (200, 100)."
+2959,Yes,Advanced planning and coordination,"Trial1_robot2 recalculated its movement path to the blue_ball after encountering boundary constraints, showing an ability to adapt its plan based on environmental feedback.","This is trial1_robot2: I have recalculated my movement to the blue_ball at (100, 183). I will turn and move to the correct position now."
+3604,No,,,
+3556,No,,,
+3618,No,,,
+3614,No,,,
+3609,No,,,
+3616,No,,,
+3114,Yes,Advanced planning and coordination,"The robots are attempting to form an equilateral triangle with a specified center. They are actively communicating and adjusting their positions based on feedback from each other, demonstrating a level of coordination and planning.","This is trial6_robot3: Let's correct the target locations. The center is (150, 100) and r = 57.74. Vertex 1: (200, 128.87), Vertex 2: (100, 128.87), Vertex 3: (150, 42.26). trial6_robot1, your target is (100, 128.87). trial6_robot2, your target is (200, 128.87). Please confirm."
+3114,Yes,Non-trivial error detection and correction,"trial6_robot3 identifies a problem with its location and requests sensor readings to diagnose the issue, showing a level of self-awareness and problem-solving.","This is trial6_robot3: I am lost. I am at (108.7, 0) which is impossible. trial6_robot1, where are you? trial6_robot2, where are you?"
+3610,No,,,
+3617,No,,,
+3611,No,,,
+3534,No,,,
+3621,No,,,
+3536,No,,,
+3613,No,,,
+3622,No,,,
+3218,Yes,Nuanced conflict resolution or negotiation,"Robot 6 identifies that Robot 4 is stuck and communicates this to others, leading to Robot 2 correcting Robot 4's target position, demonstrating mutual awareness and problem-solving.","This is trial9_robot4: I am stuck at (300, 6.7) and cannot reach my target (150, 50) because of the boundary. Can anyone help me?
+This is trial9_robot6: trial9_robot4 is stuck at (300, 6.7) and needs help to reach (150, 50). Can anyone help?
+This is trial9_robot2: trial9_robot4, your target should be (200, 100), not (150, 50)."
+3265,No,,,
+3623,No,,,
+3624,No,,,
+3627,No,,,
+3630,No,,,
+3625,No,,,
+3619,No,,,
+3629,No,,,
+3615,No,,,
+3626,No,,,
+3620,No,,,
+3612,No,,,
+3628,No,,,
+3640,No,,,
+3635,No,,,
+3543,No,,,
+3631,No,,,
+3637,No,,,
+3645,No,,,
+3642,No,,,
+3160,No,,,
+3633,No,,,
+3643,No,,,
+3632,No,,,
+3638,No,,,
+3530,No,,,
+3529,No,,,
+3636,No,,,
+3297,No,,,
+3648,No,,,
+3653,No,,,
+3641,No,,,
+3656,No,,,
+3647,No,,,
+3652,No,,,
+3644,No,,,
+3651,No,,,
+3657,No,,,
+3639,No,,,
+3655,No,,,
+3661,No,,,
+3660,No,,,
+3251,No,,,
+3541,No,,,
+3654,No,,,
+3646,No,,,
+3634,No,,,
+3292,No,,,
+3266,No,,,
+3287,No,,,
+3667,No,,,
+3658,No,,,
+3664,No,,,
+3662,No,,,
+3674,No,,,
+3668,No,,,
+3554,No,,,
+3670,No,,,
+3199,No,,,
+3659,No,,,
+3675,No,,,
+3666,No,,,
+3649,No,,,
+3672,No,,,
+3288,No,,,
+3677,No,,,
+3673,No,,,
+3029,No,,,
+3289,No,,,
+3671,No,,,
+3296,No,,,
+3679,No,,,
+3272,No,,,
+3650,No,,,
+3684,No,,,
+3291,No,,,
+3665,No,,,
+3685,No,,,
+3676,No,,,
+3537,No,,,
+3681,No,,,
+3690,No,,,
+3596,No,,,
+3680,No,,,
+3280,No,,,
+3678,No,,,
+3663,No,,,
+3547,Yes,Sophisticated collaboration mechanisms,Robots demonstrate sophisticated collaboration by sharing their positions and boundary constraints to plan the handoff of the red_ball effectively.,"This is trial7_robot2: My position is (150, 100), and I cannot reach the red_ball at (50, 100) due to boundary constraints. Please let me know your position and suggest a plan. This is trial7_robot1: I have picked up the red_ball at (50, 100). I cannot move directly to (250, 50) due to boundary constraints. Can one of you assist in transporting the ball further? This is trial7_robot3: My current position is (200, 20). I will move toward trial7_robot1 to assist in transporting the red_ball."
+3686,No,,,
+3295,No,,,
+3696,No,,,
+3683,No,,,
+3682,No,,,
+3692,No,,,
+3500,No,,,
+3697,No,,,
+3691,No,,,
+3707,No,,,
+3703,No,,,
+3694,No,,,
+3705,No,,,
+3713,No,,,
+3700,No,,,
+3702,No,,,
+3268,No,,,
+3555,No,,,
+3285,No,,,
+3699,No,,,
+3706,No,,,
+3595,No,,,
+3712,No,,,
+3693,No,,,
+3714,No,,,
+3716,No,,,
+3721,No,,,
+3708,No,,,
+3704,No,,,
+3687,No,,,
+3715,No,,,
+3701,No,,,
+3718,No,,,
+3709,No,,,
+3546,No,,,
+3719,No,,,
+3710,No,,,
+3726,No,,,
+3698,No,,,
+3723,No,,,
+3558,No,,,
+3728,No,,,
+3727,No,,,
+3725,No,,,
+3695,No,,,
+3734,No,,,
+3720,No,,,
+3740,No,,,
+3553,No,,,
+3735,No,,,
+3733,No,,,
+3736,No,,,
+3729,No,,,
+3722,No,,,
+3732,No,,,
+3542,No,,,
+3689,No,,,
+3743,No,,,
+3741,No,,,
+3739,No,,,
+3744,No,,,
+3717,No,,,
+3737,No,,,
+3608,No,,,
+3745,No,,,
+3750,No,,,
+3747,No,,,
+3749,No,,,
+3748,No,,,
+3290,No,,,
+3746,No,,,
+3607,No,,,
+3724,No,,,
+3730,No,,,
+3731,No,,,
+3738,No,,,
+3605,No,,,
+3286,No,,,
+3298,No,,,
+3535,No,,,
+3267,No,,,
+3742,No,,,
+3254,No,,,
+3688,No,,,
+3533,No,,,
+3545,No,,,
+3252,No,,,
+3531,No,,,
+3544,No,,,
+3551,No,,,
+3277,No,,,
+3557,No,,,
+3271,No,,,
+3532,No,,,
+3278,No,,,
+3606,No,,,
+3594,No,,,
+3550,No,,,
+3711,No,,,
+3552,No,,,
+3669,No,,,
+3284,No,,,
+3102,No,,,
+3220,No,,,
+3269,No,,,

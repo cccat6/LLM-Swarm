@@ -1,0 +1,6 @@
+This is human. I want you pick up the red_ball at (129, 56), then send the object to (150, 100).
+my status after moving
+I will calculate my position on the circle and coordinate with other robots.
+This is trial9_robot5: I am calculating positions on the circle. Please share your names so we can determine the total number of robots.
+This is trial9_robot2: My name is trial9_robot2. I am currently working on picking up the red_ball at (129, 56).
+This is trial9_robot4: Sharing my name for coordination.

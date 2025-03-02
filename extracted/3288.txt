@@ -1,0 +1,23 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial7_robot3: I am at (250, 150). The red ball is at (50, 100). The destination is (250, 50). I am waiting near the destination.
+This is trial7_robot2: I am going to pick up the ball at (50, 100) and drop it at (150, 50) for you.
+This is trial7_robot1: I am at (120, 50) and cannot move further due to the boundary. trial7_robot2, please drop the ball at (120, 50) instead of (150, 50).
+This is trial7_robot2: I failed to pick up the ball. I am now going back to (50, 100) to pick it up, then I will move to (120, 50) to drop it.
+This is trial7_robot2: I am correcting my course to pick up the ball at (50, 100). Then I will move to (120, 50) to drop it.
+This is trial7_robot2: Retrying to pick up the ball at (50, 100).
+This is trial7_robot2: I am completely lost. I am now going to (50, 100) to pick up the ball, then I will move to (120, 50) to drop it.
+This is trial7_robot2: I am having trouble navigating. I will now try a step-by-step approach to reach (50, 100) to pick up the ball.
+This is trial7_robot1: trial7_robot2 seems to be having trouble. I will go to (50, 100) to pick up the ball and move it to (250, 50.)
+This is trial7_robot1: I am at (120, 82.5) and cannot move further due to the boundary. trial7_robot3, please come to my location to pick up the ball and move it to (250, 50).
+This is trial7_robot3: I am stuck at (200, 63.0). trial7_robot1, can you drop the ball to me?
+This is trial7_robot1: I am stuck at (120, 83.2) and trial7_robot3 is stuck at (200, 63.0). I cannot move the ball to (250, 50) due to the boundary. Can you provide assistance?
+This is trial7_robot2: I will go to trial7_robot1 at (120, 83.2), pick up the ball, and move it to (250, 50).
+This is trial7_robot2: I have arrived at your location. trial7_robot1, please drop the ball.
+This is trial7_robot2: I am at trial7_robot1's location. I will try to pick up the ball and move it to the destination.
+This is trial7_robot1: I have already dropped the ball.
+This is trial7_robot3: I am at the destination (250, 50), but I don't see the ball. trial7_robot2, what is your current location?
+This is trial7_robot2: My current location is (214.6, 10).
+This is trial7_robot1: trial7_robot2, you are close to the destination. Keep going!
+This is trial7_robot3: I am stuck at (215.2, 20). trial7_robot2, what is your distance to the front wall?
+This is trial7_robot2: I am against the wall. My distance to the front wall is 0.0.
+This is trial7_robot3: I am at (215.1, 20) but I am blocked by the wall. trial7_robot2, can you move away from the wall so I can pick up the ball?

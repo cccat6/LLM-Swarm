@@ -1,0 +1,14 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+find other robots
+This is trial7_robot3: I am at (193, 82) and looking for other robots to form an equilateral triangle centered at (150, 100).
+This is trial7_robot1: I am at (157, 163). I need the third robot to report its location. trial7_robot3 is at (193, 82) and should move to (201.1, 62.5) to form the equilateral triangle.
+This is trial7_robot2: I am at (126.7, 140.4).
+This is trial7_robot1: trial7_robot2 should turn to 242.3 degrees and move 74.4 units. trial7_robot3 should turn to 292.5 degrees and move 21.1 units. I will stay at my current location.
+This is trial7_robot2: I am at (92.0, 74.5).
+This is trial7_robot2: The correct locations are trial7_robot1 (196.65, 100), trial7_robot2 (126.675, 140.38), trial7_robot3 (123.325, 59.61).
+This is trial7_robot1: New instructions: I need to turn to 302.2 degrees and move 74.4 units. trial7_robot2 needs to turn to 62.2 degrees and move 74.4 units. trial7_robot3 needs to turn to 182.1 degrees and move 77.7 units.
+This is trial7_robot2: I am at (126.8, 140.3).
+This is trial7_robot1: I am now at (197.3, 100.5), close to my target location (196.65, 100). trial7_robot3, please report your status.
+This is trial7_robot2: I am waiting for trial7_robot3 to report its status. Its target location should be (115.38, 79.16).
+This is trial7_robot2: trial7_robot3, please report your current location.
+This is trial7_robot3: I am at (123.3, 59.7).

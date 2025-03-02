@@ -1,0 +1,2 @@
+This is human. I want you face each other.
+This is trial1_robot1: My position is (50, 188) and my orientation is 316.

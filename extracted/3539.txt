@@ -1,0 +1,2 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial4_robot3: My current position is (250, 150), facing 0 degrees. I am not holding any object. I can assist in transporting the red_ball to (250, 50) if it is brought closer to my area.

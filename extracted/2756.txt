@@ -1,0 +1,5 @@
+This is human. I want you face each other.
+This is trial4_robot2: My position is (46, 87), and I am facing 338 degrees. Are there any other robots in the environment? Please share your position and orientation.
+This is trial4_robot1: My position is (230, 17), and I am facing 181 degrees.
+This is trial4_robot1: I have turned to face your position at (46, 87). Please confirm if you are facing me as well.
+This is trial4_robot2: I am now facing you, trial4_robot1, at position (230, 17). We are aligned.

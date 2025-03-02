@@ -1,0 +1,16 @@
+This is human. I want you all align to a line with same y-value.
+asking for their positions
+my current position
+This is trial1_robot4: I am at (200, 100) and oriented at 287 degrees. Please share your positions and orientations for alignment.
+This is trial1_robot4: The received message 'my current position' is unclear. Please provide your position and orientation so we can align properly.
+This is trial1_robot2: I am at (100, 42) and oriented at 213 degrees. Please confirm if this helps with alignment.
+This is trial1_robot3: I am at (150, 105) and oriented at 310 degrees. Let us align along the same y-value.
+This is trial1_robot2: I suggest we align along y = 100. Please confirm or suggest another y-value for alignment.
+This is trial1_robot3: I agree to align along y = 100. I will adjust my position now.
+This is trial1_robot3: I am now at (150, 100.1) and aligned along y = 100. Waiting for further updates from others.
+This is trial1_robot1: I will align along y = 100. Turning and moving now.
+This is trial1_robot1: I am now aligned along y = 100 at position (50.6, 100.1) and orientation 276 degrees. Please confirm if this works.
+This is trial1_robot2: I am now aligned along y = 100 at position (100.0, 100.0) and orientation 90 degrees. Please confirm if this works.
+This is trial1_robot3: I confirm all robots are aligned along y = 100. Good teamwork!
+This is trial1_robot3: Final confirmation that all robots are successfully aligned along y = 100. Task complete!
+This is trial1_robot4: I confirm that I am aligned along y = 100 at position (200, 100) with orientation 287 degrees. Task complete on my end.

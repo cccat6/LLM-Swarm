@@ -1,0 +1,20 @@
+This is human. I want you all form a equilateral triangle with center at (150,100).
+find other robots
+This is trial2_robot2: I am at (213, 35) and heading 227. I am ready to form an equilateral triangle with center (150, 100). Please identify yourselves.
+This is trial2_robot3: I am at (193, 175) and heading 337. I am ready to form an equilateral triangle with center (150, 100).
+This is trial2_robot1: I am at (233, 128) and heading 100. I am ready to form an equilateral triangle with center (150, 100).
+This is trial2_robot2: I am moving to (125, 56.7). I will turn -60.98 degrees and move 90.4 units.
+This is trial2_robot3: I have reached my target position.
+This is trial2_robot1: Robot 2, your calculation is wrong. Your current position is (213, 35) and heading 227. Your ideal position is (106.205, 175.84). You need to turn -99.98 degrees and move 176.75 units.
+This is trial2_robot2: I am at (125.3, 56.8). Robot1, what is your current position and what target are you moving to?
+This is trial2_robot1: I have reached my target position (237.59, 100). My current position is (237.5, 100.0).
+This is trial2_robot3: trial2_robot2, your target is (135.565, 124.99). You are currently at (125.3, 56.8). Can I help you?
+This is trial2_robot2: Robot1, your target should be (200, 100). You are at (237.5, 100). Please turn to 270 and move 37.5 units.
+This is trial2_robot2: Robot3, please broadcast your current position.
+This is trial2_robot3: My current position is (135.2, 75.2).
+This is trial2_robot2: I am moving to (122.1, 61.3). I will turn -40.5 degrees and move 5.5 units.
+This is trial2_robot2: I have moved to (122.1, 61.3). Robot1, please move to (234.3, 104.5). Robot3, please move to (132, 79.7).
+This is trial2_robot3: I have moved to (132.0, 79.7).
+This is trial2_robot2: Robot1, what is your current position?
+This is trial2_robot2: Robot1 is not responding. Robot3 and I will form a line with the center at (150, 100). I will move to (100, 100). I will turn -5.3 degrees and move 44.6 units.
+This is trial2_robot2: I have moved to (99.7, 99.8). Robot3, please move to (200, 100). You need to turn 16.6 degrees and move 70.7 units.

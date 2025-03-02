@@ -1,0 +1,27 @@
+This is human. I want you all form a equilateral triangle with center at (150,100). One of you should be on the edge vut not vertex. Edge length is 100.
+This is trial6_robot3: I propose the vertices of the equilateral triangle should be A(150, 157.74), B(121.13, 50), and C(121.13, 150). I will move to vertex A. Other robots, please decide who will go to B, C, and the midpoint of AB (135.565, 103.87). Let's confirm our plan.
+This is trial6_robot4: I will move to the midpoint of AB (135.565, 103.87).
+This is trial6_robot3: trial6_robot4 will move to the midpoint of AB (135.565, 103.87). I will move to vertex A (150, 157.74). We still need robots to go to B (121.13, 50) and C (121.13, 150). Please confirm who will go to B and C.
+This is trial6_robot1: I will move to vertex C (121.13, 150).
+This is trial6_robot3: trial6_robot4 will move to the midpoint of AB (135.565, 103.87), and I will move to vertex A (150, 157.74), trial6_robot1 will move to vertex C (121.13, 150). We still need a robot to go to B (121.13, 50). trial6_robot2, please confirm if you will move to vertex B.
+This is trial6_robot2: I am already at vertex C (119.1, 150.0). trial6_robot1 should move to vertex B (121.13, 50).
+This is trial6_robot3: trial6_robot1, please move to vertex B (121.13, 50). trial6_robot2 is already near vertex C. Please confirm.
+This is trial6_robot1: I am moving to vertex B (121.13, 50).
+This is trial6_robot1: I will move to vertex B (121.13, 50).
+This is trial6_robot2: trial6_robot1, what is your current position and distances to the boundary?
+This is trial6_robot3: I am at vertex A (150.0, 157.7) and facing the center. trial6_robot1, are you at vertex B? trial6_robot4, are you at the midpoint of AB? trial6_robot2, are you at vertex C?
+This is trial6_robot2: I am at vertex C (119.1, 150.0) and facing the center.
+This is trial6_robot4: I am at the midpoint of AB (135.6, 103.8) and facing the center. I consider my task completed.
+This is trial6_robot1: I am stuck at the north boundary. I need help to be pushed away from the boundary so I can move to vertex B (121.13, 50).
+This is trial6_robot3: trial6_robot1, please sense your current position, orientation, and distances to the boundary and broadcast the information.
+This is trial6_robot2: trial6_robot1, please sense your current position, orientation, and distances to the boundary and broadcast the information.
+This is trial6_robot3: trial6_robot1, please tell me the direction to your location with respect to my current location (150.0, 157.7).
+This is trial6_robot1: The direction to my location from trial6_robot3's location (150.0, 157.7) is 126.04 degrees.
+This is trial6_robot4: trial6_robot3, since trial6_robot1 is stuck at the north boundary, you can move a little bit closer to the boundary and push trial6_robot1 away from the boundary.
+This is trial6_robot3: trial6_robot1, please tell me the direction to your location with respect to my current location (190.4, 187.1).
+This is trial6_robot1: The direction to my location from trial6_robot3's location (190.4, 187.1) is 169.6 degrees.
+This is trial6_robot3: trial6_robot1, please sense your location and distances to the boundary and broadcast the information.
+This is trial6_robot2: What is the status of trial6_robot1, trial6_robot3 and trial6_robot4? Is trial6_robot1 still stuck?
+This is trial6_robot4: trial6_robot2, I am at the midpoint of AB. trial6_robot1 is still stuck at the north boundary. trial6_robot3 is trying to help trial6_robot1.
+This is trial6_robot2: trial6_robot3, is there anything I can do to help trial6_robot1?
+This is trial6_robot1: I have reached vertex B (121.13, 50). I consider my task completed.

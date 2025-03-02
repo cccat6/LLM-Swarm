@@ -1,0 +1,2 @@
+This is human. I want you pick up the red_ball at (148, 134), then send the object to (150, 100).
+pick up the red_ball at (148, 134) and send it to (150, 100)

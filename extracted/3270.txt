@@ -1,0 +1,42 @@
+This is human. I want you to collaborate to transport the red_ball at (50,100) to (250, 50). You may need to pass the ball to each other.
+This is trial1_robot3: I am at (250, 150) and will wait near the destination (250, 50) to receive the red_ball.
+I have picked up the ball and I am going to hand it off to trial1_robot3.
+This is trial1_robot2: trial1_robot3, I am at (100, 100) and cannot reach (50, 100) due to the boundary. Can you come closer to (100, 100) to receive the red_ball?
+This is trial1_robot3: I am now at (200, 124.8).
+This is trial1_robot1: trial1_robot2, I am at (20, 180) and cannot move much due to the boundary. Can you come to (20, 150) to receive the red_ball?
+This is trial1_robot2: trial1_robot1, can you pick up the red ball at (50, 100) and bring it to (75, 100)? I am at (100, 100) and will move towards trial1_robot3.
+This is trial1_robot2: I am at (199.9, 124.7). Waiting for the red ball.
+This is trial1_robot1: trial1_robot2, I am at (20, 180) and cannot move. Can you come to (20, 150) to receive the red_ball? It seems you are close to trial1_robot3's previous location.
+This is trial1_robot2: trial1_robot3, please stay at (200, 124.8). I will go pick up the red ball at (50, 100) and bring it to you.
+This is trial1_robot3: I am at the destination (250, 50). Waiting for the red_ball.
+This is trial1_robot3: I am at the destination (250, 50). Please bring the red_ball here.
+This is trial1_robot1: trial1_robot2, I have the red ball at (20, 180). trial1_robot3 is at the destination (250, 50). Can you come to (20, 150) to receive the red ball and bring it to trial1_robot3?
+This is trial1_robot3: I am at (200, 72) and cannot reach (50, 100) due to the boundary. Can someone help?
+This is trial1_robot2: I am going to pick up the red ball from trial1_robot1 at (20, 180) and bring it to trial1_robot3 at (250, 50). Please wait.
+This is trial1_robot1: I am at (20, 180) and I have the red ball. trial1_robot2, please come to (20, 150) to pick up the red ball and take it to trial1_robot3 at (250, 50).
+This is trial1_robot3: I am at the destination (250.1, 50.2). trial1_robot2, please bring the red ball here.
+the location of the ball at (20, 180)
+This is trial1_robot2: trial1_robot1, I am having trouble reaching you. Can you bring the red ball to (100, 150)?
+the location of the red ball
+This is trial1_robot1: I have dropped the red ball at my location (20, 180). trial1_robot2, please pick it up and take it to trial1_robot3 at (250, 50).
+This is trial1_robot2: I am on my way to pick up the red ball from (20, 180) and bring it to trial1_robot3 at (250, 50).
+This is trial1_robot1: Has the red ball been delivered to (250, 50)? What is the current status?
+This is trial1_robot2: trial1_robot3, I am having trouble reaching trial1_robot1. Can you come to (100, 100) to receive the red ball?
+This is trial1_robot1: trial1_robot3, are you at the destination (250, 50)? Has trial1_robot2 delivered the red ball to you? If not, can you go to (20, 180) to pick up the red ball?
+This is trial1_robot3: I am at (200, 78.9) and cannot reach (20, 180) due to the boundary. trial1_robot2, please pick up the ball at (20, 180) and bring it to me.
+This is trial1_robot1: trial1_robot2, since trial1_robot3 is at (200, 78.9) and closer to the destination (250, 50), can you try to hand off the red ball to trial1_robot3 instead? The red ball is at (20, 180).
+This is trial1_robot2: I am moving to (20, 180) to pick up the red ball.
+This is trial1_robot1: What is the current status of the red ball? Has it been delivered to (250, 50)?
+This is trial1_robot2: I am close to the destination in terms of x coordinate. I will try to move to (220, 50) first.
+This is trial1_robot1: trial1_robot2, do you currently have possession of the red ball?
+This is trial1_robot3: I am at (200, 79.4) and cannot move further due to the boundary. trial1_robot2, please pick up the ball at (20, 180) and bring it to me.
+This is trial1_robot1: trial1_robot2, do you have the red ball?
+This is trial1_robot3: trial1_robot2, where are you and do you have the red ball?
+This is trial1_robot2: I am at (220, 127) and trying to move to (220, 50). I do not have the red ball. It is at (20, 180).
+This is trial1_robot2: I am moving towards the destination (250, 50).
+This is trial1_robot1: trial1_robot2, please pick up the red ball at (20, 180) before moving to the destination (250, 50).
+This is trial1_robot2: I am going to pick up the red ball at (20, 180).
+This is trial1_robot3: I am at (220.0, 50.0). trial1_robot2, where are you and do you have the red ball?
+This is trial1_robot3: I am at (200, 78.7) and cannot reach the red ball at (20, 180) due to the boundary. trial1_robot2, can you please pick up the red ball and bring it to me?
+This is trial1_robot3: I am at (200, 78.7) and need help to pick up the red ball at (20, 180) and bring it to (250, 50). I am unable to move further due to the boundary.
+This is trial1_robot3: I am at (200, 78.7) and unable to complete the task due to the boundary. I need help to pick up the red ball at (20, 180) and bring it to (250, 50.)
